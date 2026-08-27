@@ -101,20 +101,42 @@ function gapFor(rows) {
   return { pct, rival: bestLoser.name, cheaper: pct > 0 };
 }
 
-/* Companies that cleared technical opening but never had a price published. */
-function silentBidders(award, rows) {
-  const shown = new Set(rows.map(r => r.name));
-  const seen = new Set();
-  return award.participants
-    .filter(p => p.stage === 'technical')
-    .filter(p => {
+/* The field narrows in two gates: technical opening, then financial opening.
+   Reaching financial means you PASSED technical evaluation, so a company that
+   got there without a published price is a very different signal from one that
+   never cleared technical at all. Keep them apart. */
+function stageGroups(award, rows) {
+  const priced = new Set(rows.map(r => r.name));
+
+  const dedupe = (stage) => {
+    const seen = new Set(), out = [];
+    for (const p of award.participants) {
+      if (p.stage !== stage) continue;
       const k = p.cr || p.company;
-      if (shown.has(p.company) || seen.has(k)) return false;
+      if (seen.has(k)) continue;
       seen.add(k);
-      return true;
-    })
-    .map(p => p.company);
+      out.push(p);
+    }
+    return out;
+  };
+
+  const tech = dedupe('technical');
+  const fin = dedupe('financial');
+  const finCrs = new Set(fin.map(p => p.cr || p.company));
+
+  return {
+    techCount: tech.length,
+    finCount: fin.length,
+    // reached financial opening, but Monaqasat published no figure
+    finNoPrice: fin.filter(p => !priced.has(p.company)),
+    // never made it past technical opening
+    techOnly: tech.filter(p => !finCrs.has(p.cr || p.company) && !priced.has(p.company))
+  };
 }
+
+const chipsHtml = (list) => list.map(p =>
+  `<span class="chip">${esc(p.company)}${p.localValueRatio != null ? ` &middot; ${Math.round(p.localValueRatio)}% local` : ''}</span>`
+).join('');
 
 function editions(awards) {
   const map = new Map();
@@ -176,8 +198,13 @@ function ladderHtml(rows) {
 function recordHtml(a) {
   const rows = ladderFor(a);
   const gap = gapFor(rows);
-  const quiet = silentBidders(a, rows);
+  const g = stageGroups(a, rows);
   const noLosingPrice = rows.length > 0 && rows.every(r => r.win);
+  const funnel = [
+    g.techCount ? g.techCount + ' technical' : null,
+    g.finCount ? g.finCount + ' financial' : null,
+    rows.length + ' priced'
+  ].filter(Boolean).join(' → ');
 
   return `
   <article class="record">
@@ -200,7 +227,7 @@ function recordHtml(a) {
         <div class="fact">
           <span class="k">Field</span>
           <span class="v">${esc(a.participantCount)}</span>
-          <span class="sub">${rows.length} price${rows.length === 1 ? '' : 's'} published</span>
+          <span class="sub">${esc(funnel)}</span>
         </div>
         <div class="fact">
           <span class="k">Type</span>
@@ -221,10 +248,16 @@ function recordHtml(a) {
 
         ${a.takeaway ? `<p class="note">${esc(a.takeaway)}</p>` : ''}
 
-        ${quiet.length ? `
+        ${g.finNoPrice.length ? `
         <div>
-          <p class="field-label">Cleared technical, no price published</p>
-          <div class="chips">${quiet.map(c => `<span class="chip">${esc(c)}</span>`).join('')}</div>
+          <p class="field-label">Reached financial opening &middot; no price published</p>
+          <div class="chips">${chipsHtml(g.finNoPrice)}</div>
+        </div>` : ''}
+
+        ${g.techOnly.length ? `
+        <div>
+          <p class="field-label">Cleared technical only</p>
+          <div class="chips">${chipsHtml(g.techOnly)}</div>
         </div>` : ''}
 
         <p class="note"><a href="${esc(a.reportUrl)}" target="_blank" rel="noopener">Source report on Monaqasat &rarr;</a></p>
