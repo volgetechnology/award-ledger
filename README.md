@@ -38,7 +38,7 @@ Repo → Settings → Pages → Source: `Deploy from a branch`, branch `main`, f
 
 ## The n8n publish contract
 
-The digest workflow (`N0Rn49pvty2lSAvY`) hangs the publish off `Loop Over Awards`
+The digest workflow hangs the publish off `Loop Over Awards`
 **output 0** — the "done" branch, which fires once after every tender in the
 batch has been sent. It rebuilds the whole file rather than patching it, so the
 JSON can never drift out of sync with the table.
