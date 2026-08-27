@@ -1,0 +1,444 @@
+{
+  "generatedAt": "2026-08-27T06:50:00.000Z",
+  "source": "Monaqasat (Qatar MOF) via NocoDB tenders_awarded_qr / tenders_award_participants",
+  "awards": [
+    {
+      "id": 10,
+      "tenderNumber": "2659/2025",
+      "customId": "MNQ-2659/2025",
+      "subject": "REPLACEMENT OF SINGLE-SIGN-ON (SSO) ENTERPRISE SOLUTION -HMC/TCS/443/2025",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-08-18",
+      "sentAt": "2026-08-26T12:50:26.000Z",
+      "awardedAmountQar": 2697859,
+      "tenderBondQar": 60000,
+      "participantCount": 9,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/651106",
+      "takeaway": "The winner was 24% cheaper than the best losing bid, indicating strong price competition.",
+      "participants": [
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "awarded",
+          "approvedValueQar": 2697859,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Mekdam Technology",
+          "cr": "103277",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "biotech medical trading",
+          "cr": "152214",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "FLORA GROUP W.L.L",
+          "cr": "21969/2",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BIN OMRAN TRADING & TELECOMMUNICATION",
+          "cr": "50448",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 15295694,
+          "localValueRatio": 29.72,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 4343427,
+          "localValueRatio": 87.99,
+          "excluded": false
+        },
+        {
+          "company": "biotech medical trading",
+          "cr": "152214",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 14723000,
+          "localValueRatio": 13.45,
+          "excluded": false
+        },
+        {
+          "company": "BIN OMRAN TRADING & TELECOMMUNICATION",
+          "cr": "50448",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5935953,
+          "localValueRatio": 41.49,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2697859,
+          "localValueRatio": 16.3,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 16051580,
+          "localValueRatio": 87.99,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3528316.58,
+          "localValueRatio": 87.99,
+          "excluded": false
+        }
+      ],
+      "messageSent": "🏆 *TENDER AWARDED* — 2659/2025\n\n*Tender title:*\nREPLACEMENT OF SINGLE-SIGN-ON (SSO) ENTERPRISE SOLUTION -HMC/TCS/443/2025\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 18/08/2026\n*Awarded amount:* QAR 2,697,859\n*Tender bond:* QAR 60,000\n*Total bidders:* 9 companies\n\n*Awarded companies:* (1)\n1. Loons Group — QAR 2,697,859\n\n*Technically opened companies:* (9)\n1. GULF BUSINESS MACHINES QATAR W L L\n2. Mekdam Technology\n3. MANNAI TECHNOLOGIES\n4. Qatar Computer Services Company\n5. QATAR DATAMATION SYSTEM\n6. biotech medical trading\n7. FLORA GROUP W.L.L\n8. BIN OMRAN TRADING & TELECOMMUNICATION\n9. Loons Group\n\n*Financially opened companies:* (5)\n1. Loons Group — QAR 2,697,859\n2. MANNAI TECHNOLOGIES — QAR 3,528,316.58\n3. BIN OMRAN TRADING & TELECOMMUNICATION — QAR 5,935,953\n4. biotech medical trading — QAR 14,723,000\n5. GULF BUSINESS MACHINES QATAR W L L — QAR 15,295,694\n\n💡 The winner was 24% cheaper than the best losing bid, indicating strong price competition.\n\nhttps://golden-eye-frontend.vercel.app/record/tender"
+    },
+    {
+      "id": 9,
+      "tenderNumber": "1531/2026",
+      "customId": "MNQ-1531/2026",
+      "subject": "Renewal of Security Operations Center (SOC) Monitoring Managed Services Agreement",
+      "ministry": "RAIL",
+      "tenderType": "Limited Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-08-18",
+      "sentAt": "2026-08-26T12:49:05.000Z",
+      "awardedAmountQar": 17990367.98,
+      "tenderBondQar": 900000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/657779",
+      "takeaway": "Price drove the decision: winner 46% cheaper than best losing bid among three bidders.",
+      "participants": [
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "awarded",
+          "approvedValueQar": 17990367.98,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TECH PACE TECHNOLOGY",
+          "cr": "157840",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MEEZA QSTP LLC PUBLIC",
+          "cr": "QSTP/008",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 17990367.98,
+          "localValueRatio": 70.97,
+          "excluded": false
+        },
+        {
+          "company": "TECH PACE TECHNOLOGY",
+          "cr": "157840",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 54189689.72,
+          "localValueRatio": 33.62,
+          "excluded": false
+        },
+        {
+          "company": "MEEZA QSTP LLC PUBLIC",
+          "cr": "QSTP/008",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 33429167,
+          "localValueRatio": 64.67,
+          "excluded": false
+        }
+      ],
+      "messageSent": "🏆 *TENDER AWARDED* — 1531/2026\n\n*Tender title:*\nRenewal of Security Operations Center (SOC) Monitoring Managed Services Agreement\n\n*Ministry:* RAIL\n*Awarded date:* 18/08/2026\n*Awarded amount:* QAR 17,990,367.98\n*Tender bond:* QAR 900,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. Malomatia Q.S.C — QAR 17,990,367.98\n\n*Technically opened companies:* (3)\n1. Malomatia Q.S.C\n2. TECH PACE TECHNOLOGY\n3. MEEZA QSTP LLC PUBLIC\n\n*Financially opened companies:* (3)\n1. Malomatia Q.S.C — QAR 17,990,367.98\n2. MEEZA QSTP LLC PUBLIC — QAR 33,429,167\n3. TECH PACE TECHNOLOGY — QAR 54,189,689.72\n\n💡 Price drove the decision: winner 46% cheaper than best losing bid among three bidders.\n\nhttps://golden-eye-frontend.vercel.app/record/tender"
+    },
+    {
+      "id": 8,
+      "tenderNumber": "6351/2024",
+      "customId": "MNQ-6351/2024",
+      "subject": "SUPPLY, INSTALLATION, TESTING, AND COMMISSIONING OF CCTV SURVEILLANCE AT AHRAMAA FACILITIES WITH INTEGRATION TO REMOTE CENTRAL MONITORING STATION GTC/1256/2024- Water Projects Dept",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Contractors",
+      "awardedDate": "2026-08-23",
+      "sentAt": "2026-08-26T12:47:45.000Z",
+      "awardedAmountQar": 42751888.17,
+      "tenderBondQar": 1500000,
+      "participantCount": 9,
+      "awardedCount": 3,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/648011",
+      "takeaway": "Three-way split among nine bidders shows buyer distributes large CCTV work.",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 5807693.17,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L",
+          "cr": "45043",
+          "stage": "awarded",
+          "approvedValueQar": 17485680,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "awarded",
+          "approvedValueQar": 19458515,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "JBK CONTROLS",
+          "cr": "102222",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Regency Safety Servces And Equipment",
+          "cr": "122261",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Flora Security systems",
+          "cr": "58892",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Mekdam Technology",
+          "cr": "103277",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BARQ GROUP",
+          "cr": "35707",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L",
+          "cr": "45043",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TRAFFIC TECH (GULF)",
+          "cr": "23003",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5807693.17,
+          "localValueRatio": 87.96,
+          "excluded": false
+        },
+        {
+          "company": "Flora Security systems",
+          "cr": "58892",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": 27.6,
+          "excluded": false
+        },
+        {
+          "company": "Mekdam Technology",
+          "cr": "103277",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": 39.94,
+          "excluded": false
+        },
+        {
+          "company": "BARQ GROUP",
+          "cr": "35707",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L",
+          "cr": "45043",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 17485680,
+          "localValueRatio": 25.07,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 19458515,
+          "localValueRatio": 32.98,
+          "excluded": false
+        }
+      ],
+      "messageSent": "🏆 *TENDER AWARDED* — 6351/2024\n\n*Tender title:*\nSUPPLY, INSTALLATION, TESTING, AND COMMISSIONING OF CCTV SURVEILLANCE AT AHRAMAA FACILITIES WITH INTEGRATION TO REMOTE CENTRAL MONITORING STATION GTC/1256/2024- Water Projects Dept\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 23/08/2026\n*Awarded amount:* QAR 42,751,888.17\n*Tender bond:* QAR 1,500,000\n*Total bidders:* 9 companies\n\n*Awarded companies:* (3)\n1. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q — QAR 19,458,515\n2. BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L — QAR 17,485,680\n3. MANNAI TECHNOLOGIES — QAR 5,807,693.17\n\n*Technically opened companies:* (9)\n1. JBK CONTROLS\n2. MANNAI TECHNOLOGIES\n3. Regency Safety Servces And Equipment\n4. Flora Security systems\n5. Mekdam Technology\n6. BARQ GROUP\n7. BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L\n8. TRAFFIC TECH (GULF)\n9. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q\n\n*Financially opened companies:* (6)\n1. MANNAI TECHNOLOGIES — QAR 5,807,693.17\n2. BLACK ARROW SECURITY SYSTEMS AND SERVICES W L L — QAR 17,485,680\n3. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q — QAR 19,458,515\n4. Flora Security systems\n5. Mekdam Technology\n6. BARQ GROUP\n\n💡 Three-way split among nine bidders shows buyer distributes large CCTV work.\n\nhttps://golden-eye-frontend.vercel.app/record/tender"
+    }
+  ]
+}
