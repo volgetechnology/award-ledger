@@ -24,9 +24,9 @@
   --step-2: clamp(1.35rem, 1.2rem + .6vw, 1.7rem);
   --step-3: clamp(1.9rem, 1.5rem + 1.6vw, 3rem);
 
-  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
-  --body: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --display: "Zilla Slab", Georgia, "Times New Roman", serif;
+  --mono: "Ubuntu Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --body: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {

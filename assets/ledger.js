@@ -345,6 +345,39 @@ function renderRivals() {
     </section>`;
 }
 
+/* One award on its own page. This is what the WhatsApp message links to, so it
+   has to degrade gracefully: the message goes out a beat before the ledger is
+   pushed, so an early tap can arrive before the record exists. */
+function renderAward(id) {
+  const a = DATA.awards.find(x => String(x.id) === String(id));
+  if (!a) {
+    app.innerHTML = `
+      <header class="page-head">
+        <a class="backlink" href="#/">&larr; All editions</a>
+        <h1>Not on the ledger yet</h1>
+        <p class="standfirst">This award was posted to the group moments ago and the ledger is still catching up. Refresh in a minute, or browse the editions.</p>
+      </header>`;
+    return;
+  }
+
+  const ed = dayKey(a.sentAt);
+  app.innerHTML = `
+    <header class="page-head">
+      <a class="backlink" href="#/e/${ed}">&larr; Edition of ${esc(shortDate(ed))}</a>
+      <p class="eyebrow"><span>${esc(a.tenderNumber)}</span><span>${esc(a.ministry)}</span></p>
+      <h1>${esc(a.subject.length > 110 ? a.subject.slice(0, 110).trim() + '…' : a.subject)}</h1>
+    </header>
+
+    <section>
+      <div class="records">${recordHtml(a)}</div>
+    </section>
+
+    <section>
+      <div class="sec-head"><h2>As posted to WhatsApp</h2><span class="count">${esc(clock(a.sentAt))}</span></div>
+      <details open><summary><span>${esc(a.tenderNumber)}</span></summary><pre>${esc(a.messageSent || '(message body not archived for this record)')}</pre></details>
+    </section>`;
+}
+
 /* ---------- router ---------- */
 
 function route() {
@@ -352,7 +385,9 @@ function route() {
   const h = location.hash.replace(/^#\/?/, '');
   document.querySelectorAll('.topbar nav a').forEach(a => a.removeAttribute('aria-current'));
 
-  if (h.startsWith('e/')) {
+  if (h.startsWith('a/')) {
+    renderAward(decodeURIComponent(h.slice(2)));
+  } else if (h.startsWith('e/')) {
     renderEdition(h.slice(2));
   } else if (h === 'rivals') {
     document.querySelector('a[href="#/rivals"]')?.setAttribute('aria-current', 'page');
