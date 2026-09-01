@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-08-27T11:53:10.213Z",
+  "generatedAt": "2026-09-01T11:31:31.210Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 12,
+      "tenderNumber": "2740/2026",
+      "customId": "MNQ-2740/2026",
+      "subject": "PBX and corporate internet connectivity",
+      "ministry": "National Archives of Qatar",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-01",
+      "sentAt": "2026-09-01T11:31:31.000Z",
+      "awardedAmountQar": 1330000,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658994",
+      "takeaway": "Only one bidder competed for this contract, meaning minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2740/2026\n\n*Tender title:*\nPBX and corporate internet connectivity\n\n*Ministry:* National Archives of Qatar\n*Awarded date:* 01/09/2026\n*Awarded amount:* QAR 1,330,000\n*Total bidders:* 1 companies\n\n*Awarded companies:* (1)\n1. ooredoo Q.P.S.C — QAR 1,330,000\n\n*Technically opened companies:* (1)\n1. ooredoo Q.P.S.C\n\n*Financially opened companies:* (1)\n1. ooredoo Q.P.S.C — QAR 1,330,000\n\n💡 Only one bidder competed for this contract, meaning minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/12",
+      "participants": [
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "awarded",
+          "approvedValueQar": 1330000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1330000,
+          "localValueRatio": 59.34,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 11,
       "tenderNumber": "1220/2026",
