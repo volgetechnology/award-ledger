@@ -1,7 +1,442 @@
 {
-  "generatedAt": "2026-09-01T11:31:31.210Z",
+  "generatedAt": "2026-09-03T11:36:22.421Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 18,
+      "tenderNumber": "3344/2026",
+      "customId": "MNQ-3344/2026",
+      "subject": "Renewal of Security Operations Center SOC",
+      "ministry": "Qatar Financial Markets Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:36:22.000Z",
+      "awardedAmountQar": 198175,
+      "tenderBondQar": 7000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659598",
+      "takeaway": "With three bidders, the winner was 47% cheaper than the best losing bid, showing price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3344/2026\n\n*Tender title:*\nRenewal of Security Operations Center SOC\n\n*Ministry:* Qatar Financial Markets Authority\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 198,175\n*Tender bond:* QAR 7,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. I 4 IT SOLUTION W.L.L — QAR 198,175\n\n*Technically opened companies:* (3)\n1. I 4 IT SOLUTION W.L.L\n2. Diyar middle East\n3. TECH PACE TECHNOLOGY\n\n*Financially opened companies:* (3)\n1. I 4 IT SOLUTION W.L.L — QAR 198,175\n2. TECH PACE TECHNOLOGY — QAR 372,300\n3. Diyar middle East — QAR 629,700\n\n💡 With three bidders, the winner was 47% cheaper than the best losing bid, showing price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/18",
+      "participants": [
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "awarded",
+          "approvedValueQar": 198175,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TECH PACE TECHNOLOGY",
+          "cr": "157840",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 198175,
+          "localValueRatio": 17.03,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 629700,
+          "localValueRatio": 40.67,
+          "excluded": false
+        },
+        {
+          "company": "TECH PACE TECHNOLOGY",
+          "cr": "157840",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 372300,
+          "localValueRatio": 33.62,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tenderNumber": "2965/2026",
+      "customId": "MNQ-2965/2026",
+      "subject": "Fortinet firewall license renewal for three (3) years for QTV37",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:34:56.000Z",
+      "awardedAmountQar": 494802,
+      "tenderBondQar": 14500,
+      "participantCount": 5,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659219",
+      "takeaway": "With five bidders, the winner was 14% cheaper than the best losing bid, showing price drove this decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2965/2026\n\n*Tender title:*\nFortinet firewall license renewal for three (3) years for QTV37\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 494,802\n*Tender bond:* QAR 14,500\n*Total bidders:* 5 companies\n\n*Awarded companies:* (1)\n1. M K INFORMATION SYSTEM — QAR 494,802\n\n*Technically opened companies:* (0)\nnot published\n\n*Financially opened companies:* (5)\n1. M K INFORMATION SYSTEM — QAR 494,802\n2. MANNAI TECHNOLOGIES — QAR 578,526\n3. Diyar middle East — QAR 628,042\n4. VISTAS GLOBAL — QAR 666,892\n5. NewMinds Technologies Trading and Consultancy — QAR 1,519,130\n\n💡 With five bidders, the winner was 14% cheaper than the best losing bid, showing price drove this decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/17",
+      "participants": [
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "awarded",
+          "approvedValueQar": 494802,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "NewMinds Technologies Trading and Consultancy",
+          "cr": "177726",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1519130,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 494802,
+          "localValueRatio": 33.5,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 578526,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 628042,
+          "localValueRatio": 40.67,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 666892,
+          "localValueRatio": 67.19,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tenderNumber": "3871/2022",
+      "customId": "MNQ-3871/2022",
+      "subject": "HUBBLE subscription Renewal",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Direct Agreement Less Than 500,000",
+      "sector": "Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:34:46.000Z",
+      "awardedAmountQar": 389056,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/534876",
+      "takeaway": "Only one bidder won this contract, meaning no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3871/2022\n\n*Tender title:*\nHUBBLE subscription Renewal\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 389,056\n*Total bidders:* 1 companies\n\n*Awarded companies:* (1)\n1. Insight Software Development International Ltd — QAR 389,056\n\n*Technically opened companies:* (1)\n1. Insight Software Development International Ltd\n\n*Financially opened companies:* (1)\n1. Insight Software Development International Ltd — QAR 389,056\n\n💡 Only one bidder won this contract, meaning no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/16",
+      "participants": [
+        {
+          "company": "Insight Software Development International Ltd",
+          "cr": "000268",
+          "stage": "awarded",
+          "approvedValueQar": 389056,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Insight Software Development International Ltd",
+          "cr": "000268",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Insight Software Development International Ltd",
+          "cr": "000268",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 389056,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tenderNumber": "4162/2022",
+      "customId": "MNQ-4162/2022",
+      "subject": "StarLIMS License and Support Renewal",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Direct Agreement Less Than 500,000",
+      "sector": "Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:33:29.000Z",
+      "awardedAmountQar": 399300,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/535167",
+      "takeaway": "Only one bidder competed, indicating minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4162/2022\n\n*Tender title:*\nStarLIMS License and Support Renewal\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 399,300\n*Total bidders:* 1 companies\n\n*Awarded companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 399,300\n\n*Technically opened companies:* (1)\n1. MANNAI TRADING COMPANY\n\n*Financially opened companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 399,300\n\n💡 Only one bidder competed, indicating minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/15",
+      "participants": [
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "awarded",
+          "approvedValueQar": 399300,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 399300,
+          "localValueRatio": 9.78,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tenderNumber": "2337/2026",
+      "customId": "MNQ-2337/2026",
+      "subject": "QTV Palo Alto Broadcast Firewall License Renewal for (3) Years",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:32:34.000Z",
+      "awardedAmountQar": 791824,
+      "tenderBondQar": 24750,
+      "participantCount": 2,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658591",
+      "takeaway": "Only two bidders; the winner was 22% cheaper than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2337/2026\n\n*Tender title:*\nQTV Palo Alto Broadcast Firewall License Renewal for (3) Years\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 791,824\n*Tender bond:* QAR 24,750\n*Total bidders:* 2 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 791,824\n\n*Technically opened companies:* (0)\nnot published\n\n*Financially opened companies:* (2)\n1. MANNAI TECHNOLOGIES — QAR 791,824\n2. I 4 IT SOLUTION W.L.L — QAR 1,017,597\n\n💡 Only two bidders; the winner was 22% cheaper than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/14",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 791824,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 791824,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1017597,
+          "localValueRatio": 17.03,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tenderNumber": "2149/2026",
+      "customId": "MNQ-2149/2026",
+      "subject": "Provision of maintenance services for power supply units (UPS) for 3 Years",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-03",
+      "sentAt": "2026-09-03T11:31:18.000Z",
+      "awardedAmountQar": 3042827,
+      "tenderBondQar": 122500,
+      "participantCount": 7,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658403",
+      "takeaway": "7 bidders: winner 48% cheaper than best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2149/2026\n\n*Tender title:*\nProvision of maintenance services for power supply units (UPS) for 3 Years\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 03/09/2026\n*Awarded amount:* QAR 3,042,827\n*Tender bond:* QAR 122,500\n*Total bidders:* 7 companies\n\n*Awarded companies:* (1)\n1. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q — QAR 3,042,827\n\n*Technically opened companies:* (7)\n1. DANA TRADEZONE\n2. QATAR SITE AND POWER\n3. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q\n4. Al Moayyed Commercial Services\n5. COMPUTER SUPPORT SYSTEMS\n6. Gulf Construction Machinery\n7. SITE TECHNOLOGY CO . QATAR\n\n*Financially opened companies:* (5)\n1. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q — QAR 3,042,827\n2. SITE TECHNOLOGY CO . QATAR — QAR 5,873,233\n3. COMPUTER SUPPORT SYSTEMS — QAR 7,992,245\n4. Al Moayyed Commercial Services — QAR 10,044,524\n5. Gulf Construction Machinery — QAR 10,728,000\n\n💡 7 bidders: winner 48% cheaper than best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/13",
+      "participants": [
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "awarded",
+          "approvedValueQar": 3042827,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DANA TRADEZONE",
+          "cr": "88974",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR SITE AND POWER",
+          "cr": "31565",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER SUPPORT SYSTEMS",
+          "cr": "12343",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Gulf Construction Machinery",
+          "cr": "114510",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SITE TECHNOLOGY CO . QATAR",
+          "cr": "35771",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3042827,
+          "localValueRatio": 57.76,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 10044524,
+          "localValueRatio": 28.94,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER SUPPORT SYSTEMS",
+          "cr": "12343",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 7992245,
+          "localValueRatio": 23.64,
+          "excluded": false
+        },
+        {
+          "company": "Gulf Construction Machinery",
+          "cr": "114510",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 10728000,
+          "localValueRatio": 31.1,
+          "excluded": false
+        },
+        {
+          "company": "SITE TECHNOLOGY CO . QATAR",
+          "cr": "35771",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5873233,
+          "localValueRatio": 26.21,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 12,
       "tenderNumber": "2740/2026",
