@@ -1,7 +1,195 @@
 {
-  "generatedAt": "2026-09-03T11:36:22.421Z",
+  "generatedAt": "2026-09-07T11:35:06.196Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 22,
+      "tenderNumber": "809/2022",
+      "customId": "MNQ-809/2022",
+      "subject": "OT Cyber Security Assessment- Electricity Transmission and Distribution, and the Water Supply as per QCSF FIFA 2022",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Bidding Less Than 500,000",
+      "sector": "Service Providers",
+      "awardedDate": "2026-09-07",
+      "sentAt": "2026-09-07T11:35:05.000Z",
+      "awardedAmountQar": 480000,
+      "tenderBondQar": 0,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/521816",
+      "takeaway": "Only one bidder means a thin market for OT cyber security assessments.",
+      "messageSent": "🏆 *TENDER AWARDED* — 809/2022\n\n*Tender title:*\nOT Cyber Security Assessment- Electricity Transmission and Distribution, and the Water Supply as per QCSF FIFA 2022\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 07/09/2026\n*Awarded amount:* QAR 480,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Moore JFC Group LLC — QAR 480,000\n\n*Technically opened companies:* (1)\n1. Moore JFC Group LLC\n\n*Financially opened companies:* (1)\n1. Moore JFC Group LLC — QAR 480,000\n\n💡 Only one bidder means a thin market for OT cyber security assessments.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/22",
+      "participants": [
+        {
+          "company": "Moore JFC Group LLC",
+          "cr": "QFC/00217",
+          "stage": "awarded",
+          "approvedValueQar": 480000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Moore JFC Group LLC",
+          "cr": "QFC/00217",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Moore JFC Group LLC",
+          "cr": "QFC/00217",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 480000,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tenderNumber": "1309/2022",
+      "customId": "MNQ-1309/2022",
+      "subject": "warehouse software",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Bidding Less Than 500,000",
+      "sector": "Service Providers",
+      "awardedDate": "2026-09-07",
+      "sentAt": "2026-09-07T11:33:41.000Z",
+      "awardedAmountQar": 18177,
+      "tenderBondQar": 0,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/522316",
+      "takeaway": "Only one company bid for this warehouse software contract.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1309/2022\n\n*Tender title:*\nwarehouse software\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 07/09/2026\n*Awarded amount:* QAR 18,177\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 18,177\n\n*Technically opened companies:* (1)\n1. MANNAI TRADING COMPANY\n\n*Financially opened companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 18,177\n\n💡 Only one company bid for this warehouse software contract.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/21",
+      "participants": [
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "awarded",
+          "approvedValueQar": 18177,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 18177,
+          "localValueRatio": 9.78,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tenderNumber": "1901/2022",
+      "customId": "MNQ-1901/2022",
+      "subject": "Additional licenses for Adobe Acrobat PRO",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Direct Agreement Less Than 500,000",
+      "sector": "Service Providers",
+      "awardedDate": "2026-09-07",
+      "sentAt": "2026-09-07T11:32:37.000Z",
+      "awardedAmountQar": 177520,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/522908",
+      "takeaway": "Only one bidder competed, showing minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1901/2022\n\n*Tender title:*\nAdditional licenses for Adobe Acrobat PRO\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 07/09/2026\n*Awarded amount:* QAR 177,520\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Information & Communication Technology W L.L — QAR 177,520\n\n*Technically opened companies:* (1)\n1. Information & Communication Technology W L.L\n\n*Financially opened companies:* (1)\n1. Information & Communication Technology W L.L — QAR 177,520\n\n💡 Only one bidder competed, showing minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/20",
+      "participants": [
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "awarded",
+          "approvedValueQar": 177520,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 177520,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tenderNumber": "3724/2026",
+      "customId": "MNQ-3724/2026",
+      "subject": "Adobe Sign Subscription Support Renewal for Aspire Zone Foundation",
+      "ministry": "Aspire Zone",
+      "tenderType": "Limited Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-07",
+      "sentAt": "2026-09-07T11:31:24.000Z",
+      "awardedAmountQar": 339500,
+      "tenderBondQar": 5000,
+      "participantCount": 2,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659978",
+      "takeaway": "Only two bidders, so the winner was 5% more expensive than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3724/2026\n\n*Tender title:*\nAdobe Sign Subscription Support Renewal for Aspire Zone Foundation\n\n*Ministry:* Aspire Zone\n*Awarded date:* 07/09/2026\n*Awarded amount:* QAR 339,500\n*Tender bond:* QAR 5,000\n*Total bidders:* 2 companies\n\n*Awarded companies:* (1)\n1. PROMEDIA QATAR COMPANY — QAR 339,500\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (2)\n1. ALMANA & PARTNERS — QAR 322,000\n2. PROMEDIA QATAR COMPANY — QAR 339,500\n\n💡 Only two bidders, so the winner was 5% more expensive than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/19",
+      "participants": [
+        {
+          "company": "PROMEDIA QATAR COMPANY",
+          "cr": "28533",
+          "stage": "awarded",
+          "approvedValueQar": 339500,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "PROMEDIA QATAR COMPANY",
+          "cr": "28533",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 339500,
+          "localValueRatio": 17.33,
+          "excluded": false
+        },
+        {
+          "company": "ALMANA & PARTNERS",
+          "cr": "9134",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 322000,
+          "localValueRatio": null,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 18,
       "tenderNumber": "3344/2026",
