@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-09-07T11:35:06.196Z",
+  "generatedAt": "2026-09-10T11:36:13.623Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 23,
+      "tenderNumber": "4621/2026",
+      "customId": "MNQ-4621/2026",
+      "subject": "SUPPLY OF DRUGS(BELZUTIFAN 40MG TABLET)(DP/4181911/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-10",
+      "sentAt": "2026-09-10T11:36:13.000Z",
+      "awardedAmountQar": 219000,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660875",
+      "takeaway": "One bidder won the contract, meaning no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4621/2026\n\n*Tender title:*\nSUPPLY OF DRUGS(BELZUTIFAN 40MG TABLET)(DP/4181911/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 10/09/2026\n*Awarded amount:* QAR 219,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS — QAR 219,000\n\n*Technically opened companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS\n\n*Financially opened companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS — QAR 219,000\n\n💡 One bidder won the contract, meaning no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/23",
+      "participants": [
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "awarded",
+          "approvedValueQar": 219000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 219000,
+          "localValueRatio": 6.49,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 22,
       "tenderNumber": "809/2022",
