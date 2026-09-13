@@ -1,7 +1,173 @@
 {
-  "generatedAt": "2026-09-10T11:36:13.623Z",
+  "generatedAt": "2026-09-13T11:45:11.686Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 25,
+      "tenderNumber": "315/2026",
+      "customId": "MNQ-315/2026",
+      "subject": "License Renewal and Annual Support (Risk & Audit Management system (GRC),Nexthink,Dynatrace) for three Years in QCAA",
+      "ministry": "Civil Aiation Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-13",
+      "sentAt": "2026-09-13T11:45:11.000Z",
+      "awardedAmountQar": 5686410,
+      "tenderBondQar": 285000,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/656562",
+      "takeaway": "Only one bidder competed, so the field for this kind of managed service is thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 315/2026\n\n*Tender title:*\nLicense Renewal and Annual Support (Risk & Audit Management system (GRC),Nexthink,Dynatrace) for three Years in QCAA\n\n*Ministry:* Civil Aiation Authority\n*Awarded date:* 13/09/2026\n*Awarded amount:* QAR 5,686,410\n*Tender bond:* QAR 285,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 5,686,410\n\n*Technically opened companies:* (1)\n1. MANNAI TECHNOLOGIES\n\n*Financially opened companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 5,686,410\n\n💡 Only one bidder competed, so the field for this kind of managed service is thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/25",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 5686410,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5686410,
+          "localValueRatio": 87.97,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tenderNumber": "3581/2025",
+      "customId": "MNQ-3581/2025",
+      "subject": "Extension of central data center in mseimer",
+      "ministry": "Civil Aiation Authority",
+      "tenderType": "Public Tender",
+      "sector": "Contractors",
+      "awardedDate": "2026-09-13",
+      "sentAt": "2026-09-13T11:36:57.000Z",
+      "awardedAmountQar": 272280,
+      "tenderBondQar": 15000,
+      "participantCount": 5,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/652039",
+      "takeaway": "Price drove the decision: the winner was 9% cheaper than the best losing bid among five bidders.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3581/2025\n\n*Tender title:*\nExtension of central data center in mseimer\n\n*Ministry:* Civil Aiation Authority\n*Awarded date:* 13/09/2026\n*Awarded amount:* QAR 272,280\n*Tender bond:* QAR 15,000\n*Total bidders:* 5 companies\n\n*Awarded companies:* (1)\n1. QATAR SITE AND POWER — QAR 272,280\n\n*Technically opened companies:* (5)\n1. AL BADER CONSTRUCTION & STEEL WORKS\n2. QATAR SITE AND POWER\n3. GULF ENGINEERING TRANSPORTATION & CONTRACTING.W.L.L\n4. QATAR DATAMATION SYSTEM\n5. COMPUTER SUPPORT SYSTEMS\n\n*Financially opened companies:* (4)\n1. QATAR SITE AND POWER — QAR 272,280\n2. COMPUTER SUPPORT SYSTEMS — QAR 299,990\n3. QATAR DATAMATION SYSTEM — QAR 444,000\n4. GULF ENGINEERING TRANSPORTATION & CONTRACTING.W.L.L — QAR 950,000\n\n💡 Price drove the decision: the winner was 9% cheaper than the best losing bid among five bidders.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/24",
+      "participants": [
+        {
+          "company": "QATAR SITE AND POWER",
+          "cr": "31565",
+          "stage": "awarded",
+          "approvedValueQar": 272280,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AL BADER CONSTRUCTION & STEEL WORKS",
+          "cr": "15621",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR SITE AND POWER",
+          "cr": "31565",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "GULF ENGINEERING TRANSPORTATION & CONTRACTING.W.L.L",
+          "cr": "76152",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER SUPPORT SYSTEMS",
+          "cr": "12343",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR SITE AND POWER",
+          "cr": "31565",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 272280,
+          "localValueRatio": 19.54,
+          "excluded": false
+        },
+        {
+          "company": "GULF ENGINEERING TRANSPORTATION & CONTRACTING.W.L.L",
+          "cr": "76152",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 950000,
+          "localValueRatio": 41.85,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 444000,
+          "localValueRatio": 22.24,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER SUPPORT SYSTEMS",
+          "cr": "12343",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 299990,
+          "localValueRatio": 23.56,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER SUPPORT SYSTEMS",
+          "cr": "12343",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 341530,
+          "localValueRatio": 23.56,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 23,
       "tenderNumber": "4621/2026",
