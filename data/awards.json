@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-09-13T11:45:11.686Z",
+  "generatedAt": "2026-09-14T11:39:13.104Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 26,
+      "tenderNumber": "2525/2026",
+      "customId": "MNQ-2525/2026",
+      "subject": "Application Performance Monitoring and Management Solutions",
+      "ministry": "Ministry of Finance",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-14",
+      "sentAt": "2026-09-14T11:39:12.000Z",
+      "awardedAmountQar": 4564250,
+      "tenderBondQar": 150000,
+      "participantCount": 2,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658779",
+      "takeaway": "The winner was 25% cheaper than the nearest rival, so price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2525/2026\n\n*Tender title:*\nApplication Performance Monitoring and Management Solutions\n\n*Ministry:* Ministry of Finance\n*Awarded date:* 14/09/2026\n*Awarded amount:* QAR 4,564,250\n*Tender bond:* QAR 150,000\n*Total bidders:* 2 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 4,564,250\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (2)\n1. MANNAI TECHNOLOGIES — QAR 4,564,250\n2. Aamal Information Technology — QAR 6,119,142\n\n💡 The winner was 25% cheaper than the nearest rival, so price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/26",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 4564250,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 4564250,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Aamal Information Technology",
+          "cr": "188369",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 6119142,
+          "localValueRatio": 24.35,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 25,
       "tenderNumber": "315/2026",
