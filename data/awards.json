@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-09-14T11:39:13.104Z",
+  "generatedAt": "2026-09-15T11:37:09.847Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 27,
+      "tenderNumber": "1097/2026",
+      "customId": "MNQ-1097/2026",
+      "subject": "Enterprise Agreement for Smart Metering Application and Support - GTC -1293/2025 - Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-15",
+      "sentAt": "2026-09-15T11:37:09.000Z",
+      "awardedAmountQar": 74969521.5,
+      "tenderBondQar": 1500000,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/657345",
+      "takeaway": "Only one bidder competed, indicating minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1097/2026\n\n*Tender title:*\nEnterprise Agreement for Smart Metering Application and Support - GTC -1293/2025 - Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 15/09/2026\n*Awarded amount:* QAR 74,969,521.50\n*Tender bond:* QAR 1,500,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. SIEMENS WLL — QAR 74,969,521.50\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (1)\n1. SIEMENS WLL — QAR 74,969,521.50\n\n💡 Only one bidder competed, indicating minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/27",
+      "participants": [
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "awarded",
+          "approvedValueQar": 74969521.5,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 74969521.5,
+          "localValueRatio": 25.55,
+          "excluded": false
+        },
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 96042588,
+          "localValueRatio": 25.55,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 26,
       "tenderNumber": "2525/2026",
