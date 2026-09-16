@@ -1,7 +1,119 @@
 {
-  "generatedAt": "2026-09-15T11:37:09.847Z",
+  "generatedAt": "2026-09-16T11:38:31.500Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 29,
+      "tenderNumber": "1449/2026",
+      "customId": "MNQ-1449/2026",
+      "subject": "Enterprise Security Subscription & Support Renewal and Oracle Cloud Security Deployment for 39 Months.",
+      "ministry": "Community College of Qatar",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-16",
+      "sentAt": "2026-09-16T11:38:31.000Z",
+      "awardedAmountQar": 1832241,
+      "tenderBondQar": 78000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/657697",
+      "takeaway": "Only three bidders, so the security market is thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1449/2026\n\n*Tender title:*\nEnterprise Security Subscription & Support Renewal and Oracle Cloud Security Deployment for 39 Months.\n\n*Ministry:* Community College of Qatar\n*Awarded date:* 16/09/2026\n*Awarded amount:* QAR 1,832,241\n*Tender bond:* QAR 78,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 1,832,241\n\n*Technically opened companies:* (3)\n1. MANNAI TECHNOLOGIES\n2. Information & Communication Technology W L.L\n3. Diyar middle East\n\n*Financially opened companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 1,832,241\n\n💡 Only three bidders, so the security market is thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/29",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 1832241,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1832241,
+          "localValueRatio": 87.97,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "tenderNumber": "4684/2026",
+      "customId": "MNQ-4684/2026",
+      "subject": "SUPPLY OF DRUG ( AMERICAN HOUSE DUST MITE (D. FARINAE) & EUROPEAN HOUSE DUST MITE (D. PTERONYSSINUS) 100IR (3 TAB ) + 300IR ( 28 TAB ) SUBLINGUAL TABLETS INITIATION PACK (ACTAIR))-(DP/4192338/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-16",
+      "sentAt": "2026-09-16T11:31:12.000Z",
+      "awardedAmountQar": 304920,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660938",
+      "takeaway": "This tender had only one bidder, meaning no competition existed for this contract.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4684/2026\n\n*Tender title:*\nSUPPLY OF DRUG ( AMERICAN HOUSE DUST MITE (D. FARINAE) & EUROPEAN HOUSE DUST MITE (D. PTERONYSSINUS) 100IR (3 TAB ) + 300IR ( 28 TAB ) SUBLINGUAL TABLETS INITIATION PACK (ACTAIR))-(DP/4192338/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 16/09/2026\n*Awarded amount:* QAR 304,920\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Barzan Medical Supplies — QAR 304,920\n\n*Technically opened companies:* (1)\n1. Barzan Medical Supplies\n\n*Financially opened companies:* (1)\n1. Barzan Medical Supplies — QAR 304,920\n\n💡 This tender had only one bidder, meaning no competition existed for this contract.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/28",
+      "participants": [
+        {
+          "company": "Barzan Medical Supplies",
+          "cr": "38910",
+          "stage": "awarded",
+          "approvedValueQar": 304920,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Barzan Medical Supplies",
+          "cr": "38910",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Barzan Medical Supplies",
+          "cr": "38910",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 304920,
+          "localValueRatio": 28.95,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 27,
       "tenderNumber": "1097/2026",
