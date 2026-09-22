@@ -1,7 +1,200 @@
 {
-  "generatedAt": "2026-09-16T11:38:31.500Z",
+  "generatedAt": "2026-09-22T11:47:16.802Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 31,
+      "tenderNumber": "2556/2026",
+      "customId": "MNQ-2556/2026",
+      "subject": "supply of Laptop for Field Data Collection - SESRI with Support and Maintenance services at Qatar University",
+      "ministry": "Qatar University",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-20",
+      "sentAt": "2026-09-22T11:47:16.000Z",
+      "awardedAmountQar": 438390,
+      "tenderBondQar": 15000,
+      "participantCount": 11,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658810",
+      "takeaway": "With 11 bidders, the winner was 31% cheaper than the best losing bid, showing price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2556/2026\n\n*Tender title:*\nsupply of Laptop for Field Data Collection - SESRI with Support and Maintenance services at Qatar University\n\n*Ministry:* Qatar University\n*Awarded date:* 20/09/2026\n*Awarded amount:* QAR 438,390\n*Tender bond:* QAR 15,000\n*Total bidders:* 11 companies\n\n*Awarded companies:* (1)\n1. Aamal Information Technology — QAR 438,390\n\n*Technically opened companies:* (11)\n1. QATAR BUSINESS SYSTEMS W.L.L\n2. DASMAN TECHNICAL SERVICES\n3. MANNAI TECHNOLOGIES\n4. COMPUTER ARABIA CO.\n5. Aamal Information Technology\n6. TS Qatar Systems and Communications\n7. (MULTI SERVICES COMPANY (QATAR) (MSC-Q\n8. PREMIER INFOTECH SECURITY SERVICES\n9. Qatar Computer Services Company\n10. Information & Communication Technology W L.L\n11. ADVANCED BUSINESS COMPUTING W.L.L\n\n*Financially opened companies:* (2)\n1. Aamal Information Technology — QAR 438,390\n2. COMPUTER ARABIA CO. — QAR 637,395\n\n💡 With 11 bidders, the winner was 31% cheaper than the best losing bid, showing price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/31",
+      "participants": [
+        {
+          "company": "Aamal Information Technology",
+          "cr": "188369",
+          "stage": "awarded",
+          "approvedValueQar": 438390,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR BUSINESS SYSTEMS W.L.L",
+          "cr": "32178",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DASMAN TECHNICAL SERVICES",
+          "cr": "190137",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER ARABIA CO.",
+          "cr": "22545",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Aamal Information Technology",
+          "cr": "188369",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TS Qatar Systems and Communications",
+          "cr": "40668",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "(MULTI SERVICES COMPANY (QATAR) (MSC-Q",
+          "cr": "28259",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "PREMIER INFOTECH SECURITY SERVICES",
+          "cr": "33594",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ADVANCED BUSINESS COMPUTING W.L.L",
+          "cr": "35384",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER ARABIA CO.",
+          "cr": "22545",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 637395,
+          "localValueRatio": 20.21,
+          "excluded": true
+        },
+        {
+          "company": "Aamal Information Technology",
+          "cr": "188369",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 438390,
+          "localValueRatio": 24.35,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "tenderNumber": "4728/2026",
+      "customId": "MNQ-4728/2026",
+      "subject": "Enterprise Agreement for Smart Metering Application and Support - GTC-1293/2025 - Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-17",
+      "sentAt": "2026-09-22T11:37:22.000Z",
+      "awardedAmountQar": 74969521.5,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660982",
+      "takeaway": "Only one bidder competed, indicating minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4728/2026\n\n*Tender title:*\nEnterprise Agreement for Smart Metering Application and Support - GTC-1293/2025 - Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 17/09/2026\n*Awarded amount:* QAR 74,969,521.50\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. SIEMENS WLL — QAR 74,969,521.50\n\n*Technically opened companies:* (1)\n1. SIEMENS WLL\n\n*Financially opened companies:* (1)\n1. SIEMENS WLL — QAR 74,969,521.50\n\n💡 Only one bidder competed, indicating minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/30",
+      "participants": [
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "awarded",
+          "approvedValueQar": 74969521.5,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SIEMENS WLL",
+          "cr": "31805",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 74969521.5,
+          "localValueRatio": 24.18,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 29,
       "tenderNumber": "1449/2026",
