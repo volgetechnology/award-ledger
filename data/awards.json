@@ -1,7 +1,211 @@
 {
-  "generatedAt": "2026-09-22T11:47:16.802Z",
+  "generatedAt": "2026-09-23T11:48:32.139Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 34,
+      "tenderNumber": "2334/2026",
+      "customId": "MNQ-2334/2026",
+      "subject": "New Duct Management System (DMS)",
+      "ministry": "The Communications Regulatory",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-23",
+      "sentAt": "2026-09-23T11:48:31.000Z",
+      "awardedAmountQar": 3899943,
+      "tenderBondQar": 160000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658588",
+      "takeaway": "Only three bidders show this managed service market is small for The Communications Regulatory.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2334/2026\n\n*Tender title:*\nNew Duct Management System (DMS)\n\n*Ministry:* The Communications Regulatory\n*Awarded date:* 23/09/2026\n*Awarded amount:* QAR 3,899,943\n*Tender bond:* QAR 160,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 3,899,943\n\n*Technically opened companies:* (3)\n1. MANNAI TECHNOLOGIES\n2. BIN OMRAN TRADING & TELECOMMUNICATION\n3. AL BALAGH TRADING AND CONTRACTING COMPANY\n\n*Financially opened companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 3,899,943\n\n💡 Only three bidders show this managed service market is small for The Communications Regulatory.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/34",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 3899943,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BIN OMRAN TRADING & TELECOMMUNICATION",
+          "cr": "50448",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AL BALAGH TRADING AND CONTRACTING COMPANY",
+          "cr": "15327",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 4249875,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3899943,
+          "localValueRatio": 87.97,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "tenderNumber": "3245/2026",
+      "customId": "MNQ-3245/2026",
+      "subject": "CRA CRM System Support ,Enhancement & New Features ( 2026-2029)",
+      "ministry": "The Communications Regulatory",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-23",
+      "sentAt": "2026-09-23T11:47:44.000Z",
+      "awardedAmountQar": 2802740,
+      "tenderBondQar": 98000,
+      "participantCount": 5,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659499",
+      "takeaway": "Only five bidders competed, so the CRM support market is thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3245/2026\n\n*Tender title:*\nCRA CRM System Support ,Enhancement & New Features ( 2026-2029)\n\n*Ministry:* The Communications Regulatory\n*Awarded date:* 23/09/2026\n*Awarded amount:* QAR 2,802,740\n*Tender bond:* QAR 98,000\n*Total bidders:* 5 companies\n\n*Awarded companies:* (1)\n1. Malomatia Q.S.C — QAR 2,802,740\n\n*Technically opened companies:* (5)\n1. Malomatia Q.S.C\n2. APP LAB SOFTWARE TRADING\n3. AL BALAGH TRADING AND CONTRACTING COMPANY\n4. Diyar middle East\n5. VISTAS GLOBAL\n\n*Financially opened companies:* (1)\n1. Malomatia Q.S.C — QAR 2,802,740\n\n💡 Only five bidders competed, so the CRM support market is thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/33",
+      "participants": [
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "awarded",
+          "approvedValueQar": 2802740,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "APP LAB SOFTWARE TRADING",
+          "cr": "85020",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AL BALAGH TRADING AND CONTRACTING COMPANY",
+          "cr": "15327",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2802740,
+          "localValueRatio": 70.97,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "tenderNumber": "3972/2026",
+      "customId": "MNQ-3972/2026",
+      "subject": "TABLEAU LICENSES RENEWAL – 1 YEAR, REQUIRED FOR STRATEGY PLANNING & HEALTH INTELLIGENCE DEPARTMENT PHCC/TAC/64/2026",
+      "ministry": "Primary Health Care Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-23",
+      "sentAt": "2026-09-23T11:40:16.000Z",
+      "awardedAmountQar": 449456.56,
+      "tenderBondQar": 15000,
+      "participantCount": 2,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660226",
+      "takeaway": "The winner was 4% cheaper than the best losing bid among two bidders.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3972/2026\n\n*Tender title:*\nTABLEAU LICENSES RENEWAL – 1 YEAR, REQUIRED FOR STRATEGY PLANNING & HEALTH INTELLIGENCE DEPARTMENT PHCC/TAC/64/2026\n\n*Ministry:* Primary Health Care Corporation\n*Awarded date:* 23/09/2026\n*Awarded amount:* QAR 449,456.56\n*Tender bond:* QAR 15,000\n*Total bidders:* 2 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 449,456.56\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (2)\n1. MANNAI TECHNOLOGIES — QAR 449,456.56\n2. Al Moayyed Commercial Services — QAR 466,182\n\n💡 The winner was 4% cheaper than the best losing bid among two bidders.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/32",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 449456.56,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 449456.56,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 466182,
+          "localValueRatio": 28.94,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 31,
       "tenderNumber": "2556/2026",
