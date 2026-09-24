@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-09-23T11:48:32.139Z",
+  "generatedAt": "2026-09-24T11:43:12.272Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 36,
+      "tenderNumber": "4825/2026",
+      "customId": "MNQ-4825/2026",
+      "subject": "SUPPLY OF DRUGS(IVOSIDENIB 250MG TABLET)(DP/4190957/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-24",
+      "sentAt": "2026-09-24T11:43:12.000Z",
+      "awardedAmountQar": 580350,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661079",
+      "takeaway": "No competition existed for this QAR 580k drug supply contract.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4825/2026\n\n*Tender title:*\nSUPPLY OF DRUGS(IVOSIDENIB 250MG TABLET)(DP/4190957/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 24/09/2026\n*Awarded amount:* QAR 580,350\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Ebn Sina Medical — QAR 580,350\n\n*Technically opened companies:* (1)\n1. Ebn Sina Medical\n\n*Financially opened companies:* (1)\n1. Ebn Sina Medical — QAR 580,350\n\n💡 No competition existed for this QAR 580k drug supply contract.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/36",
+      "participants": [
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "awarded",
+          "approvedValueQar": 580350,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 580350,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "tenderNumber": "2500/2026",
+      "customId": "MNQ-2500/2026",
+      "subject": "Q Weather Digital Platform",
+      "ministry": "Civil Aiation Authority",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-24",
+      "sentAt": "2026-09-24T11:37:21.000Z",
+      "awardedAmountQar": 810000,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658754",
+      "takeaway": "Only one company bid for this Q Weather Digital Platform contract.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2500/2026\n\n*Tender title:*\nQ Weather Digital Platform\n\n*Ministry:* Civil Aiation Authority\n*Awarded date:* 24/09/2026\n*Awarded amount:* QAR 810,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. APP LAB SOFTWARE TRADING — QAR 810,000\n\n*Technically opened companies:* (1)\n1. APP LAB SOFTWARE TRADING\n\n*Financially opened companies:* (1)\n1. APP LAB SOFTWARE TRADING — QAR 810,000\n\n💡 Only one company bid for this Q Weather Digital Platform contract.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/35",
+      "participants": [
+        {
+          "company": "APP LAB SOFTWARE TRADING",
+          "cr": "85020",
+          "stage": "awarded",
+          "approvedValueQar": 810000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "APP LAB SOFTWARE TRADING",
+          "cr": "85020",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "APP LAB SOFTWARE TRADING",
+          "cr": "85020",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 810000,
+          "localValueRatio": 29.79,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 34,
       "tenderNumber": "2334/2026",
