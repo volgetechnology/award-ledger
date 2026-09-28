@@ -1,7 +1,99 @@
 {
-  "generatedAt": "2026-09-24T11:43:12.272Z",
+  "generatedAt": "2026-09-28T11:46:13.238Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 37,
+      "tenderNumber": "1883/2026",
+      "customId": "MNQ-1883/2026",
+      "subject": "Email Security & Data Centre XDR Protection Subscription and Support for Aspire Zone Foundation",
+      "ministry": "Aspire Zone",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-28",
+      "sentAt": "2026-09-28T11:46:13.000Z",
+      "awardedAmountQar": 3035268,
+      "tenderBondQar": 40000,
+      "participantCount": 5,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658137",
+      "takeaway": "Price drove the decision: the winner was 9% cheaper than the best losing bid among five bidders.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1883/2026\n\n*Tender title:*\nEmail Security & Data Centre XDR Protection Subscription and Support for Aspire Zone Foundation\n\n*Ministry:* Aspire Zone\n*Awarded date:* 28/09/2026\n*Awarded amount:* QAR 3,035,268\n*Tender bond:* QAR 40,000\n*Total bidders:* 5 companies\n\n*Awarded companies:* (1)\n1. GULF BUSINESS MACHINES QATAR W L L — QAR 3,035,268\n\n*Technically opened companies:* (5)\n1. GULF BUSINESS MACHINES QATAR W L L\n2. Algo systems qatar\n3. Information & Communication Technology W L.L\n4. TS Qatar Systems and Communications\n5. TEYSEER TECHNOLOGY SERVICES\n\n*Financially opened companies:* (2)\n1. GULF BUSINESS MACHINES QATAR W L L — QAR 3,035,268\n2. Information & Communication Technology W L.L — QAR 3,352,359.61\n\n💡 Price drove the decision: the winner was 9% cheaper than the best losing bid among five bidders.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/37",
+      "participants": [
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "awarded",
+          "approvedValueQar": 3035268,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Algo systems qatar",
+          "cr": "54606",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TS Qatar Systems and Communications",
+          "cr": "40668",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TEYSEER TECHNOLOGY SERVICES",
+          "cr": "135564",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3035268,
+          "localValueRatio": 26.92,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3352359.61,
+          "localValueRatio": 14.83,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 36,
       "tenderNumber": "4825/2026",
