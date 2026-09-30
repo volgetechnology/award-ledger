@@ -1,7 +1,355 @@
 {
-  "generatedAt": "2026-09-28T11:46:13.238Z",
+  "generatedAt": "2026-09-30T11:34:21.598Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 40,
+      "tenderNumber": "2697/2026",
+      "customId": "MNQ-2697/2026",
+      "subject": "Renewal of Licenses and procurement of IT Applications - LTC 2390/2025- Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-30",
+      "sentAt": "2026-09-30T11:34:21.000Z",
+      "awardedAmountQar": 6548884.6,
+      "tenderBondQar": 400000,
+      "participantCount": 3,
+      "awardedCount": 3,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658951",
+      "takeaway": "The contract was split among three companies, indicating a thin competitive field.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2697/2026\n\n*Tender title:*\nRenewal of Licenses and procurement of IT Applications - LTC 2390/2025- Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 30/09/2026\n*Awarded amount:* QAR 6,548,884.60\n*Tender bond:* QAR 400,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (3)\n1. Al Moayyed Commercial Services — QAR 5,174,521\n2. MANNAI TECHNOLOGIES — QAR 997,500\n3. IDEAL SOLUTIONS — QAR 376,863.60\n\n*Technically opened companies:* (3)\n1. MANNAI TECHNOLOGIES\n2. Al Moayyed Commercial Services\n3. IDEAL SOLUTIONS\n\n*Financially opened companies:* (3)\n1. IDEAL SOLUTIONS — QAR 376,863.60\n2. MANNAI TECHNOLOGIES — QAR 997,500\n3. Al Moayyed Commercial Services — QAR 5,174,521\n\n💡 The contract was split among three companies, indicating a thin competitive field.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/40",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 997500,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "awarded",
+          "approvedValueQar": 5174521,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "IDEAL SOLUTIONS",
+          "cr": "20098",
+          "stage": "awarded",
+          "approvedValueQar": 376863.6,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "IDEAL SOLUTIONS",
+          "cr": "20098",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 997500,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Al Moayyed Commercial Services",
+          "cr": "119676",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5174521,
+          "localValueRatio": 28.94,
+          "excluded": false
+        },
+        {
+          "company": "IDEAL SOLUTIONS",
+          "cr": "20098",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 376863.6,
+          "localValueRatio": 59.21,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "tenderNumber": "2793/2026",
+      "customId": "MNQ-2793/2026",
+      "subject": "CCTV Security Enhancements - LTC -2356/2025 - Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-30",
+      "sentAt": "2026-09-30T11:32:54.000Z",
+      "awardedAmountQar": 2599888,
+      "tenderBondQar": 120000,
+      "participantCount": 6,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659047",
+      "takeaway": "With 6 bidders, the winner was 5% cheaper than the next highest bid, showing strong price competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2793/2026\n\n*Tender title:*\nCCTV Security Enhancements - LTC -2356/2025 - Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 30/09/2026\n*Awarded amount:* QAR 2,599,888\n*Tender bond:* QAR 120,000\n*Total bidders:* 6 companies\n\n*Awarded companies:* (1)\n1. VISTAS GLOBAL — QAR 2,599,888\n\n*Technically opened companies:* (6)\n1. Flora Security systems\n2. VISTAS GLOBAL\n3. QATAR DATAMATION SYSTEM\n4. COMPUTER ARABIA CO.\n5. TRAFFIC TECH (GULF)\n6. MANNAI TECHNOLOGIES\n\n*Financially opened companies:* (3)\n1. VISTAS GLOBAL — QAR 2,599,888\n2. QATAR DATAMATION SYSTEM — QAR 2,738,424\n3. COMPUTER ARABIA CO. — QAR 3,658,847\n\n💡 With 6 bidders, the winner was 5% cheaper than the next highest bid, showing strong price competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/39",
+      "participants": [
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "awarded",
+          "approvedValueQar": 2599888,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Flora Security systems",
+          "cr": "58892",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "COMPUTER ARABIA CO.",
+          "cr": "22545",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TRAFFIC TECH (GULF)",
+          "cr": "23003",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2599888,
+          "localValueRatio": 67.19,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2738424,
+          "localValueRatio": 19.11,
+          "excluded": true
+        },
+        {
+          "company": "COMPUTER ARABIA CO.",
+          "cr": "22545",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3658847,
+          "localValueRatio": 20.21,
+          "excluded": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "tenderNumber": "2818/2026",
+      "customId": "MNQ-2818/2026",
+      "subject": "Vulnerability Management for Identity and Access Management- LTC -2412/2025 - Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-09-30",
+      "sentAt": "2026-09-30T11:31:31.000Z",
+      "awardedAmountQar": 1091033,
+      "tenderBondQar": 55000,
+      "participantCount": 6,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659072",
+      "takeaway": "Price was decisive as the winner was 1% cheaper than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2818/2026\n\n*Tender title:*\nVulnerability Management for Identity and Access Management- LTC -2412/2025 - Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 30/09/2026\n*Awarded amount:* QAR 1,091,033\n*Tender bond:* QAR 55,000\n*Total bidders:* 6 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 1,091,033\n\n*Technically opened companies:* (6)\n1. ALM Data Systems\n2. MANNAI TECHNOLOGIES\n3. Algo systems qatar\n4. VISTAS GLOBAL\n5. ooredoo Q.P.S.C\n6. Dimension Data QFZ LLC\n\n*Financially opened companies:* (5)\n1. MANNAI TECHNOLOGIES — QAR 1,091,033\n2. ALM Data Systems — QAR 1,100,000\n3. Dimension Data QFZ LLC — QAR 1,135,150\n4. VISTAS GLOBAL — QAR 1,255,740\n5. Algo systems qatar — QAR 1,706,000\n\n💡 Price was decisive as the winner was 1% cheaper than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/38",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 1091033,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ALM Data Systems",
+          "cr": "130577",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Algo systems qatar",
+          "cr": "54606",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Dimension Data QFZ LLC",
+          "cr": "QFZ/149",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ALM Data Systems",
+          "cr": "130577",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1100000,
+          "localValueRatio": 72.59,
+          "excluded": true
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1091033,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Algo systems qatar",
+          "cr": "54606",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1706000,
+          "localValueRatio": 66.73,
+          "excluded": true
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1255740,
+          "localValueRatio": 67.19,
+          "excluded": true
+        },
+        {
+          "company": "Dimension Data QFZ LLC",
+          "cr": "QFZ/149",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1135150,
+          "localValueRatio": null,
+          "excluded": true
+        },
+        {
+          "company": "Algo systems qatar",
+          "cr": "54606",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5486000,
+          "localValueRatio": 66.73,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 37,
       "tenderNumber": "1883/2026",
