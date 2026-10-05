@@ -1,7 +1,137 @@
 {
-  "generatedAt": "2026-09-30T11:34:21.598Z",
+  "generatedAt": "2026-10-05T11:32:40.859Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 42,
+      "tenderNumber": "5032/2026",
+      "customId": "MNQ-5032/2026",
+      "subject": "manage Engine AD Audit File server",
+      "ministry": "Ministry of Municipality",
+      "tenderType": "Direct Agreement Less Than 200,000",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-05",
+      "sentAt": "2026-10-05T11:32:40.000Z",
+      "awardedAmountQar": 7320,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661286",
+      "takeaway": "Only one bidder, so this managed service had no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5032/2026\n\n*Tender title:*\nmanage Engine AD Audit File server\n\n*Ministry:* Ministry of Municipality\n*Awarded date:* 05/10/2026\n*Awarded amount:* QAR 7,320\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Qatar Computer Services Company — QAR 7,320\n\n*Technically opened companies:* (1)\n1. Qatar Computer Services Company\n\n*Financially opened companies:* (1)\n1. Qatar Computer Services Company — QAR 7,320\n\n💡 Only one bidder, so this managed service had no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/42",
+      "participants": [
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "awarded",
+          "approvedValueQar": 7320,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 7320,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "tenderNumber": "3810/2026",
+      "customId": "MNQ-3810/2026",
+      "subject": "SIEM & SOAR Renewal",
+      "ministry": "Qatar Financial Markets Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-05",
+      "sentAt": "2026-10-05T11:31:19.000Z",
+      "awardedAmountQar": 470000,
+      "tenderBondQar": 11000,
+      "participantCount": 4,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660064",
+      "takeaway": "With four bidders, the winner was 2% more expensive than the nearest rival, showing tight competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3810/2026\n\n*Tender title:*\nSIEM & SOAR Renewal\n\n*Ministry:* Qatar Financial Markets Authority\n*Awarded date:* 05/10/2026\n*Awarded amount:* QAR 470,000\n*Tender bond:* QAR 11,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (1)\n1. MEEZA QSTP LLC PUBLIC — QAR 470,000\n\n*Technically opened companies:* (4)\n1. I 4 IT SOLUTION W.L.L\n2. MEEZA QSTP LLC PUBLIC\n3. SALAM TECHNOLOGY\n4. Diyar middle East\n\n*Financially opened companies:* (2)\n1. Diyar middle East — QAR 458,700\n2. MEEZA QSTP LLC PUBLIC — QAR 470,000\n\n💡 With four bidders, the winner was 2% more expensive than the nearest rival, showing tight competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/41",
+      "participants": [
+        {
+          "company": "MEEZA QSTP LLC PUBLIC",
+          "cr": "QSTP/008",
+          "stage": "awarded",
+          "approvedValueQar": 470000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MEEZA QSTP LLC PUBLIC",
+          "cr": "QSTP/008",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SALAM TECHNOLOGY",
+          "cr": "12467",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MEEZA QSTP LLC PUBLIC",
+          "cr": "QSTP/008",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 470000,
+          "localValueRatio": 64.67,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 458700,
+          "localValueRatio": 40.67,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 40,
       "tenderNumber": "2697/2026",
