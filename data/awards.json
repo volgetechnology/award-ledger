@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-10-05T11:32:40.859Z",
+  "generatedAt": "2026-10-06T11:31:33.182Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 43,
+      "tenderNumber": "5059/2026",
+      "customId": "MNQ-5059/2026",
+      "subject": "SUPPLY OF DRUGS(BRENSOCATIB 25MG TABLET)-(DP/(4221959/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-06",
+      "sentAt": "2026-10-06T11:31:33.000Z",
+      "awardedAmountQar": 264960,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661313",
+      "takeaway": "Only one company bid, so there was no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5059/2026\n\n*Tender title:*\nSUPPLY OF DRUGS(BRENSOCATIB 25MG TABLET)-(DP/(4221959/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 06/10/2026\n*Awarded amount:* QAR 264,960\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. DOHA DRUG STORE — QAR 264,960\n\n*Technically opened companies:* (1)\n1. DOHA DRUG STORE\n\n*Financially opened companies:* (1)\n1. DOHA DRUG STORE — QAR 264,960\n\n💡 Only one company bid, so there was no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/43",
+      "participants": [
+        {
+          "company": "DOHA DRUG STORE",
+          "cr": "14993",
+          "stage": "awarded",
+          "approvedValueQar": 264960,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DOHA DRUG STORE",
+          "cr": "14993",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DOHA DRUG STORE",
+          "cr": "14993",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 264960,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 42,
       "tenderNumber": "5032/2026",
