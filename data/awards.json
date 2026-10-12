@@ -1,7 +1,355 @@
 {
-  "generatedAt": "2026-10-06T11:31:33.182Z",
+  "generatedAt": "2026-10-12T11:33:47.648Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 46,
+      "tenderNumber": "4154/2026",
+      "customId": "MNQ-4154/2026",
+      "subject": "Project for the supply installation and maintenance of a secure web portal system SECURE WEBGATEWAY",
+      "ministry": "Ministry of Foreign Affairs",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-12",
+      "sentAt": "2026-10-12T11:33:47.000Z",
+      "awardedAmountQar": 2260267,
+      "tenderBondQar": 104000,
+      "participantCount": 5,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660408",
+      "takeaway": "Price competition was strong, with the winner 27% cheaper than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4154/2026\n\n*Tender title:*\nProject for the supply installation and maintenance of a secure web portal system SECURE WEBGATEWAY\n\n*Ministry:* Ministry of Foreign Affairs\n*Awarded date:* 12/10/2026\n*Awarded amount:* QAR 2,260,267\n*Tender bond:* QAR 104,000\n*Total bidders:* 5 companies\n\n*Awarded companies:* (1)\n1. M K INFORMATION SYSTEM — QAR 2,260,267\n\n*Technically opened companies:* (5)\n1. M K INFORMATION SYSTEM\n2. Loons Group\n3. VISTAS GLOBAL\n4. TATA CONSULTANCY SERVICES QATAR\n5. MANNAI TRADING COMPANY\n\n*Financially opened companies:* (5)\n1. M K INFORMATION SYSTEM — QAR 2,260,267\n2. MANNAI TRADING COMPANY — QAR 3,086,890\n3. VISTAS GLOBAL — QAR 3,136,764\n4. Loons Group — QAR 3,707,185\n5. TATA CONSULTANCY SERVICES QATAR — QAR 6,662,500\n\n💡 Price competition was strong, with the winner 27% cheaper than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/46",
+      "participants": [
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "awarded",
+          "approvedValueQar": 2260267,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "TATA CONSULTANCY SERVICES QATAR",
+          "cr": "53508",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2260267,
+          "localValueRatio": 33.5,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3707185,
+          "localValueRatio": 20.57,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3136764,
+          "localValueRatio": 67.19,
+          "excluded": false
+        },
+        {
+          "company": "TATA CONSULTANCY SERVICES QATAR",
+          "cr": "53508",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 6662500,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3086890,
+          "localValueRatio": 19.91,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "tenderNumber": "4150/2026",
+      "customId": "MNQ-4150/2026",
+      "subject": "Supply, installation, and maintenance of a secure software defined wide area network center",
+      "ministry": "Ministry of Foreign Affairs",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-12",
+      "sentAt": "2026-10-12T11:32:33.000Z",
+      "awardedAmountQar": 3829675,
+      "tenderBondQar": 172000,
+      "participantCount": 6,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660404",
+      "takeaway": "The winner's bid was 22% more expensive than the best losing bid, showing strong value.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4150/2026\n\n*Tender title:*\nSupply, installation, and maintenance of a secure software defined wide area network center\n\n*Ministry:* Ministry of Foreign Affairs\n*Awarded date:* 12/10/2026\n*Awarded amount:* QAR 3,829,675\n*Tender bond:* QAR 172,000\n*Total bidders:* 6 companies\n\n*Awarded companies:* (1)\n1. M K INFORMATION SYSTEM — QAR 3,829,675\n\n*Technically opened companies:* (6)\n1. M K INFORMATION SYSTEM\n2. MANNAI TRADING COMPANY\n3. Loons Group\n4. VISTAS GLOBAL\n5. I 4 IT SOLUTION W.L.L\n6. ooredoo Q.P.S.C\n\n*Financially opened companies:* (4)\n1. VISTAS GLOBAL — QAR 3,145,431\n2. M K INFORMATION SYSTEM — QAR 3,829,675\n3. ooredoo Q.P.S.C — QAR 5,207,640\n4. Loons Group — QAR 6,030,447\n\n💡 The winner's bid was 22% more expensive than the best losing bid, showing strong value.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/45",
+      "participants": [
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "awarded",
+          "approvedValueQar": 3829675,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "M K INFORMATION SYSTEM",
+          "cr": "110348",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3829675,
+          "localValueRatio": 33.5,
+          "excluded": false
+        },
+        {
+          "company": "Loons Group",
+          "cr": "58590",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 6030447,
+          "localValueRatio": 20.57,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3145431,
+          "localValueRatio": 67.19,
+          "excluded": true
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5207640,
+          "localValueRatio": 59.34,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "tenderNumber": "2226/2026",
+      "customId": "MNQ-2226/2026",
+      "subject": "Tech Refresh and Subscription Renewal for Veritas (Cohesity) Netback Solution with Technical Support for Three (3) Years PHCC/TAC/35/2026",
+      "ministry": "Primary Health Care Corporation",
+      "tenderType": "Limited Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-12",
+      "sentAt": "2026-10-12T11:31:16.000Z",
+      "awardedAmountQar": 8138000,
+      "tenderBondQar": 200000,
+      "participantCount": 4,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658480",
+      "takeaway": "Four bidders competed, with the winner 9% cheaper than the best losing bid, indicating price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2226/2026\n\n*Tender title:*\nTech Refresh and Subscription Renewal for Veritas (Cohesity) Netback Solution with Technical Support for Three (3) Years PHCC/TAC/35/2026\n\n*Ministry:* Primary Health Care Corporation\n*Awarded date:* 12/10/2026\n*Awarded amount:* QAR 8,138,000\n*Tender bond:* QAR 200,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (1)\n1. QATAR DATAMATION SYSTEM — QAR 8,138,000\n\n*Technically opened companies:* (4)\n1. Information & Communication Technology W L.L\n2. QATAR DATAMATION SYSTEM\n3. ooredoo Q.P.S.C\n4. MANNAI TECHNOLOGIES\n\n*Financially opened companies:* (4)\n1. QATAR DATAMATION SYSTEM — QAR 8,138,000\n2. Information & Communication Technology W L.L — QAR 8,916,786.25\n3. MANNAI TECHNOLOGIES — QAR 9,256,032.59\n4. ooredoo Q.P.S.C — QAR 9,537,244\n\n💡 Four bidders competed, with the winner 9% cheaper than the best losing bid, indicating price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/44",
+      "participants": [
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "awarded",
+          "approvedValueQar": 8138000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 8916786.25,
+          "localValueRatio": 14.83,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 8138000,
+          "localValueRatio": 19.1,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 9537244,
+          "localValueRatio": 59.05,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 9256032.59,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 10848746,
+          "localValueRatio": 14.83,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 43,
       "tenderNumber": "5059/2026",
