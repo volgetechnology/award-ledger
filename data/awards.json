@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-10-12T11:33:47.648Z",
+  "generatedAt": "2026-10-13T11:32:37.788Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 48,
+      "tenderNumber": "3993/2026",
+      "customId": "MNQ-3993/2026",
+      "subject": "LS telcom maintenance and support connect for spectra software",
+      "ministry": "The Communications Regulatory",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-13",
+      "sentAt": "2026-10-13T11:32:37.000Z",
+      "awardedAmountQar": 12700000,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660247",
+      "takeaway": "This tender had no competition because only one company bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3993/2026\n\n*Tender title:*\nLS telcom maintenance and support connect for spectra software\n\n*Ministry:* The Communications Regulatory\n*Awarded date:* 13/10/2026\n*Awarded amount:* QAR 12,700,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. LS telcom AG\n\n*Technically opened companies:* (1)\n1. LS telcom AG\n\n*Financially opened companies:* (1)\n1. LS telcom AG — QAR 12,700,000\n\n💡 This tender had no competition because only one company bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/48",
+      "participants": [
+        {
+          "company": "LS telcom AG",
+          "cr": "OFLC/000038",
+          "stage": "awarded",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "LS telcom AG",
+          "cr": "OFLC/000038",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "LS telcom AG",
+          "cr": "OFLC/000038",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 12700000,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "tenderNumber": "4141/2026",
+      "customId": "MNQ-4141/2026",
+      "subject": "Internal Firewalls Licenses and Support Renewal (3Years)",
+      "ministry": "Qatar University",
+      "tenderType": "Mumarasa",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-13",
+      "sentAt": "2026-10-13T11:31:26.000Z",
+      "awardedAmountQar": 1484200,
+      "tenderBondQar": 0,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660395",
+      "takeaway": "Only one bidder competed, so the competition was extremely tight.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4141/2026\n\n*Tender title:*\nInternal Firewalls Licenses and Support Renewal (3Years)\n\n*Ministry:* Qatar University\n*Awarded date:* 13/10/2026\n*Awarded amount:* QAR 1,484,200\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 1,484,200\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 1,484,200\n\n💡 Only one bidder competed, so the competition was extremely tight.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/47",
+      "participants": [
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "awarded",
+          "approvedValueQar": 1484200,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1484200,
+          "localValueRatio": 19.91,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 46,
       "tenderNumber": "4154/2026",
