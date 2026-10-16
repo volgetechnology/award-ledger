@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-10-13T11:32:37.788Z",
+  "generatedAt": "2026-10-16T13:52:56.515Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 49,
+      "tenderNumber": "4759/2026",
+      "customId": "MNQ-4759/2026",
+      "subject": "Renewal of Oracle Fusion License for the Cultural Village Foundation - Katara for One year",
+      "ministry": "Culture Village Foundation - Katara",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-15",
+      "sentAt": "2026-10-16T13:52:56.000Z",
+      "awardedAmountQar": 1654684,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661013",
+      "takeaway": "Only one bidder secured this license renewal, showing minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4759/2026\n\n*Tender title:*\nRenewal of Oracle Fusion License for the Cultural Village Foundation - Katara for One year\n\n*Ministry:* Culture Village Foundation - Katara\n*Awarded date:* 15/10/2026\n*Awarded amount:* QAR 1,654,684\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 1,654,684\n\n*Technically opened companies:* (1)\n1. MANNAI TRADING COMPANY\n\n*Financially opened companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 1,654,684\n\n💡 Only one bidder secured this license renewal, showing minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/49",
+      "participants": [
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "awarded",
+          "approvedValueQar": 1654684,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1654684,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 48,
       "tenderNumber": "3993/2026",
