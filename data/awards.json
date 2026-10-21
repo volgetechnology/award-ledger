@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-10-18T11:31:03.890Z",
+  "generatedAt": "2026-10-21T11:31:10.351Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 51,
+      "tenderNumber": "4722/2026",
+      "customId": "MNQ-4722/2026",
+      "subject": "Managed Service for Software, Database Management and Dawamy Support for 7 Months PHCC/TAC/81/2026",
+      "ministry": "Primary Health Care Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-21",
+      "sentAt": "2026-10-21T11:31:10.000Z",
+      "awardedAmountQar": 2769025,
+      "tenderBondQar": 100000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660976",
+      "takeaway": "Three bidders competed, with the winner 19% cheaper than the best losing bid, showing price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4722/2026\n\n*Tender title:*\nManaged Service for Software, Database Management and Dawamy Support for 7 Months PHCC/TAC/81/2026\n\n*Ministry:* Primary Health Care Corporation\n*Awarded date:* 21/10/2026\n*Awarded amount:* QAR 2,769,025\n*Tender bond:* QAR 100,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. GULF BUSINESS MACHINES QATAR W L L — QAR 2,769,025\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (3)\n1. GULF BUSINESS MACHINES QATAR W L L — QAR 2,769,025\n2. iHorizons media and Information services — QAR 3,416,364\n3. VISTAS GLOBAL\n\n💡 Three bidders competed, with the winner 19% cheaper than the best losing bid, showing price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/51",
+      "participants": [
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "awarded",
+          "approvedValueQar": 2769025,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "iHorizons media and Information services",
+          "cr": "18483",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3416364,
+          "localValueRatio": 59.36,
+          "excluded": true
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2769025,
+          "localValueRatio": 26.92,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": 67.19,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 50,
       "tenderNumber": "1868/2026",
