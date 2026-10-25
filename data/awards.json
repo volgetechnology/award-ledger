@@ -1,7 +1,173 @@
 {
-  "generatedAt": "2026-10-21T11:31:10.351Z",
+  "generatedAt": "2026-10-25T11:32:38.951Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 53,
+      "tenderNumber": "3052/2026",
+      "customId": "MNQ-3052/2026",
+      "subject": "NETWORK HARDWARE AND LICENSES CONSOLIDATIED CO-TERMED RENEWAL",
+      "ministry": "Ministry of Commerce and Industry",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-25",
+      "sentAt": "2026-10-25T11:32:38.000Z",
+      "awardedAmountQar": 9137747.9,
+      "tenderBondQar": 360000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659306",
+      "takeaway": "With three bidders, the winner was 5% more expensive than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3052/2026\n\n*Tender title:*\nNETWORK HARDWARE AND LICENSES CONSOLIDATIED CO-TERMED RENEWAL\n\n*Ministry:* Ministry of Commerce and Industry\n*Awarded date:* 25/10/2026\n*Awarded amount:* QAR 9,137,747.90\n*Tender bond:* QAR 360,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 9,137,747.90\n\n*Technically opened companies:* (3)\n1. VISTAS GLOBAL\n2. MANNAI TECHNOLOGIES\n3. ooredoo Q.P.S.C\n\n*Financially opened companies:* (3)\n1. ooredoo Q.P.S.C — QAR 8,719,342\n2. MANNAI TECHNOLOGIES — QAR 9,137,747.90\n3. VISTAS GLOBAL — QAR 9,512,539\n\n💡 With three bidders, the winner was 5% more expensive than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/53",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 9137747.9,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 9512539,
+          "localValueRatio": 67.19,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 9137747.9,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "ooredoo Q.P.S.C",
+          "cr": "21183",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 8719342,
+          "localValueRatio": 59.05,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "tenderNumber": "3399/2026",
+      "customId": "MNQ-3399/2026",
+      "subject": "cybersecurity solution consolidated co-termed renewal",
+      "ministry": "Ministry of Commerce and Industry",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-25",
+      "sentAt": "2026-10-25T11:31:08.000Z",
+      "awardedAmountQar": 13453879,
+      "tenderBondQar": 500000,
+      "participantCount": 4,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659653",
+      "takeaway": "With four bidders, the winner was 19% cheaper than the next highest bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3399/2026\n\n*Tender title:*\ncybersecurity solution consolidated co-termed renewal\n\n*Ministry:* Ministry of Commerce and Industry\n*Awarded date:* 25/10/2026\n*Awarded amount:* QAR 13,453,879\n*Tender bond:* QAR 500,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (1)\n1. QATAR DATAMATION SYSTEM — QAR 13,453,879\n\n*Technically opened companies:* (4)\n1. MANNAI TECHNOLOGIES\n2. QATAR DATAMATION SYSTEM\n3. VISTAS GLOBAL\n4. EBLA COMPUTER CONSULTANCY\n\n*Financially opened companies:* (2)\n1. QATAR DATAMATION SYSTEM — QAR 13,453,879\n2. EBLA COMPUTER CONSULTANCY — QAR 16,526,000\n\n💡 With four bidders, the winner was 19% cheaper than the next highest bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/52",
+      "participants": [
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "awarded",
+          "approvedValueQar": 13453879,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 13453879,
+          "localValueRatio": 19.11,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 16526000,
+          "localValueRatio": 43.63,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 51,
       "tenderNumber": "4722/2026",
