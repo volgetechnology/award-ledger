@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-10-25T11:32:38.951Z",
+  "generatedAt": "2026-10-27T11:31:29.735Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 54,
+      "tenderNumber": "5392/2026",
+      "customId": "MNQ-5392/2026",
+      "subject": "Google SecOps Licenses",
+      "ministry": "RAIL",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-27",
+      "sentAt": "2026-10-27T11:31:29.000Z",
+      "awardedAmountQar": 2623529.4,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661646",
+      "takeaway": "Only one bidder means the Google SecOps field is very thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5392/2026\n\n*Tender title:*\nGoogle SecOps Licenses\n\n*Ministry:* RAIL\n*Awarded date:* 27/10/2026\n*Awarded amount:* QAR 2,623,529.40\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Malomatia Q.S.C — QAR 2,623,529.40\n\n*Technically opened companies:* (1)\n1. Malomatia Q.S.C\n\n*Financially opened companies:* (1)\n1. Malomatia Q.S.C — QAR 2,623,529.40\n\n💡 Only one bidder means the Google SecOps field is very thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/54",
+      "participants": [
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "awarded",
+          "approvedValueQar": 2623529.4,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Malomatia Q.S.C",
+          "cr": "39193",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2623529.4,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 53,
       "tenderNumber": "3052/2026",
