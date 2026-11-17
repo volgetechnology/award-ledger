@@ -1,7 +1,1081 @@
 {
-  "generatedAt": "2026-10-28T11:31:34.529Z",
+  "generatedAt": "2026-11-17T15:33:32.569Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 70,
+      "tenderNumber": "4572/2026",
+      "customId": "MNQ-4572/2026",
+      "subject": "Applications Security Testing Services Project",
+      "ministry": "National Planning Council",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-17",
+      "sentAt": "2026-11-17T11:31:07.000Z",
+      "awardedAmountQar": 516000,
+      "tenderBondQar": 17500,
+      "participantCount": 7,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660826",
+      "takeaway": "With seven bidders, the winner was 10% more expensive than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4572/2026\n\n*Tender title:*\nApplications Security Testing Services Project\n\n*Ministry:* National Planning Council\n*Awarded date:* 17/11/2026\n*Awarded amount:* QAR 516,000\n*Tender bond:* QAR 17,500\n*Total bidders:* 7 companies\n\n*Awarded companies:* (1)\n1. OISSG CONSULTANCY — QAR 516,000\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (7)\n1. secneural LLC — QAR 470,000\n2. OISSG CONSULTANCY — QAR 516,000\n3. ALM Data Systems — QAR 517,004\n4. IT SERVE QATAR — QAR 654,500\n5. Forvis Mazars LLC — QAR 690,000\n6. QATAR BUSINESS SYSTEMS W.L.L — QAR 858,680.30\n7. VISTAS GLOBAL — QAR 928,800\n\n💡 With seven bidders, the winner was 10% more expensive than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/70",
+      "participants": [
+        {
+          "company": "OISSG CONSULTANCY",
+          "cr": "95843",
+          "stage": "awarded",
+          "approvedValueQar": 516000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "OISSG CONSULTANCY",
+          "cr": "95843",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 516000,
+          "localValueRatio": 83.51,
+          "excluded": false
+        },
+        {
+          "company": "ALM Data Systems",
+          "cr": "130577",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 517004,
+          "localValueRatio": 72.59,
+          "excluded": false
+        },
+        {
+          "company": "secneural LLC",
+          "cr": "QFC/01574",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 470000,
+          "localValueRatio": 21.71,
+          "excluded": false
+        },
+        {
+          "company": "IT SERVE QATAR",
+          "cr": "40958",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 654500,
+          "localValueRatio": 38.61,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 928800,
+          "localValueRatio": 67.19,
+          "excluded": false
+        },
+        {
+          "company": "Forvis Mazars LLC",
+          "cr": "QFC/00634",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 690000,
+          "localValueRatio": 78.91,
+          "excluded": false
+        },
+        {
+          "company": "QATAR BUSINESS SYSTEMS W.L.L",
+          "cr": "32178",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 858680.3,
+          "localValueRatio": 16.71,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "tenderNumber": "5715/2026",
+      "customId": "MNQ-5715/2026",
+      "subject": "Supply of Drugs NINTEDANIB 100 MG TABLET OR CAPSULE(DP/4239061/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-15",
+      "sentAt": "2026-11-15T11:31:20.000Z",
+      "awardedAmountQar": 2337726,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661970",
+      "takeaway": "Only one bidder competed, so competition was extremely limited.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5715/2026\n\n*Tender title:*\nSupply of Drugs NINTEDANIB 100 MG TABLET OR CAPSULE(DP/4239061/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 15/11/2026\n*Awarded amount:* QAR 2,337,726\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. INTERNATIONAL MEDICAL COMPANY — QAR 2,337,726\n\n*Technically opened companies:* (1)\n1. INTERNATIONAL MEDICAL COMPANY\n\n*Financially opened companies:* (1)\n1. INTERNATIONAL MEDICAL COMPANY — QAR 2,337,726\n\n💡 Only one bidder competed, so competition was extremely limited.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/69",
+      "participants": [
+        {
+          "company": "INTERNATIONAL MEDICAL COMPANY",
+          "cr": "28606",
+          "stage": "awarded",
+          "approvedValueQar": 2337726,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "INTERNATIONAL MEDICAL COMPANY",
+          "cr": "28606",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "INTERNATIONAL MEDICAL COMPANY",
+          "cr": "28606",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2337726,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "tenderNumber": "5258/2026",
+      "customId": "MNQ-5258/2026",
+      "subject": "Supply & Delivery of Toners for Printers on Call-Off Basis for the Organization",
+      "ministry": "Qatar General Organization for Standardization",
+      "tenderType": "Bidding Less Than 200,000",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-12",
+      "sentAt": "2026-11-12T11:30:15.000Z",
+      "awardedAmountQar": 67110,
+      "tenderBondQar": 0,
+      "participantCount": 4,
+      "awardedCount": 3,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661512",
+      "takeaway": "This buyer split the contract across three suppliers, showing willingness to distribute large scopes.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5258/2026\n\n*Tender title:*\nSupply & Delivery of Toners for Printers on Call-Off Basis for the Organization\n\n*Ministry:* Qatar General Organization for Standardization\n*Awarded date:* 12/11/2026\n*Awarded amount:* QAR 67,110\n*Total bidders:* 4 companies\n\n*Awarded companies:* (3)\n1. NATIONAL COMPUTER CENTER — QAR 42,960\n2. DARWISH TRADING COMPANY — QAR 19,320\n3. CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L — QAR 4,830\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (4)\n1. CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L — QAR 4,830\n2. DARWISH TRADING COMPANY — QAR 19,320\n3. NATIONAL COMPUTER CENTER — QAR 42,960\n4. Apta Trading & Contracting & Services — QAR 69,516\n\n💡 This buyer split the contract across three suppliers, showing willingness to distribute large scopes.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/68",
+      "participants": [
+        {
+          "company": "NATIONAL COMPUTER CENTER",
+          "cr": "111967",
+          "stage": "awarded",
+          "approvedValueQar": 42960,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DARWISH TRADING COMPANY",
+          "cr": "130280",
+          "stage": "awarded",
+          "approvedValueQar": 19320,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L",
+          "cr": "48184",
+          "stage": "awarded",
+          "approvedValueQar": 4830,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Apta Trading & Contracting & Services",
+          "cr": "70229",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 69516,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "NATIONAL COMPUTER CENTER",
+          "cr": "111967",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 42960,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "DARWISH TRADING COMPANY",
+          "cr": "130280",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 19320,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L",
+          "cr": "48184",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 4830,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "tenderNumber": "3860/2026",
+      "customId": "MNQ-3860/2026",
+      "subject": "Renewal of VMware Cloud Foundation Licenses for (3) Years",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:43:39.000Z",
+      "awardedAmountQar": 1009795,
+      "tenderBondQar": 41250,
+      "participantCount": 7,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660114",
+      "takeaway": "Seven bidders competed, but Diyar won this VMware contract 8% above the best bid, indicating strong competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3860/2026\n\n*Tender title:*\nRenewal of VMware Cloud Foundation Licenses for (3) Years\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 1,009,795\n*Tender bond:* QAR 41,250\n*Total bidders:* 7 companies\n\n*Awarded companies:* (1)\n1. Diyar middle East — QAR 1,009,795\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (7)\n1. BUZWAIR INTERNATIONAL COMPUTER AND COMMUNICATION SYSTEMS — QAR 938,952\n2. TS Qatar Systems and Communications — QAR 957,742\n3. ADVANCED BUSINESS COMPUTING W.L.L — QAR 977,905\n4. Diyar middle East — QAR 1,009,795\n5. Information & Communication Technology W L.L — QAR 1,024,820.64\n6. GULF BUSINESS MACHINES QATAR W L L — QAR 1,042,020\n7. MANNAI TECHNOLOGIES — QAR 1,181,250\n\n💡 Seven bidders competed, but Diyar won this VMware contract 8% above the best bid, indicating strong competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/67",
+      "participants": [
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "awarded",
+          "approvedValueQar": 1009795,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BUZWAIR INTERNATIONAL COMPUTER AND COMMUNICATION SYSTEMS",
+          "cr": "117534",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 938952,
+          "localValueRatio": 28.37,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1024820.64,
+          "localValueRatio": 14.83,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1181250,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "ADVANCED BUSINESS COMPUTING W.L.L",
+          "cr": "35384",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 977905,
+          "localValueRatio": 15.54,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1009795,
+          "localValueRatio": 40.67,
+          "excluded": false
+        },
+        {
+          "company": "TS Qatar Systems and Communications",
+          "cr": "40668",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 957742,
+          "localValueRatio": 21.03,
+          "excluded": false
+        },
+        {
+          "company": "GULF BUSINESS MACHINES QATAR W L L",
+          "cr": "12719",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1042020,
+          "localValueRatio": 26.92,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "tenderNumber": "4440/2026",
+      "customId": "MNQ-4440/2026",
+      "subject": "Privileged Access Management Licenses and Support Renewal for (3) Years",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:43:22.000Z",
+      "awardedAmountQar": 449953,
+      "tenderBondQar": 15345,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660694",
+      "takeaway": "Three bidders competed, with the winner 9% cheaper than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4440/2026\n\n*Tender title:*\nPrivileged Access Management Licenses and Support Renewal for (3) Years\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 449,953\n*Tender bond:* QAR 15,345\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. Diyar middle East — QAR 449,953\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (3)\n1. Diyar middle East — QAR 449,953\n2. secneural LLC — QAR 493,491\n3. TRADIFY SERVICES — QAR 3,794,763\n\n💡 Three bidders competed, with the winner 9% cheaper than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/66",
+      "participants": [
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "awarded",
+          "approvedValueQar": 449953,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 449953,
+          "localValueRatio": 40.67,
+          "excluded": false
+        },
+        {
+          "company": "TRADIFY SERVICES",
+          "cr": "125911",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3794763,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "secneural LLC",
+          "cr": "QFC/01574",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 493491,
+          "localValueRatio": 21.71,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "tenderNumber": "3389/2026",
+      "customId": "MNQ-3389/2026",
+      "subject": ".Azure Qatar Firewalls and web Applications Firewalls licenses and support renewal for three years. For it department",
+      "ministry": "Qatar Media Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:41:54.000Z",
+      "awardedAmountQar": 821684.16,
+      "tenderBondQar": 36800,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/659643",
+      "takeaway": "The winner was 31% cheaper than the best losing bid, showing price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3389/2026\n\n*Tender title:*\n.Azure Qatar Firewalls and web Applications Firewalls licenses and support renewal for three years. For it department\n\n*Ministry:* Qatar Media Corporation\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 821,684.16\n*Tender bond:* QAR 36,800\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. EBLA COMPUTER CONSULTANCY — QAR 821,684.16\n\n*Technically opened companies:* (3)\n1. EBLA COMPUTER CONSULTANCY\n2. MANNAI TECHNOLOGIES\n3. VISTAS GLOBAL\n\n*Financially opened companies:* (2)\n1. EBLA COMPUTER CONSULTANCY — QAR 821,684.16\n2. MANNAI TECHNOLOGIES — QAR 1,191,300\n\n💡 The winner was 31% cheaper than the best losing bid, showing price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/65",
+      "participants": [
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "awarded",
+          "approvedValueQar": 821684.16,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 821684.16,
+          "localValueRatio": 43.63,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1191300,
+          "localValueRatio": 87.97,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "tenderNumber": "2018/2026",
+      "customId": "MNQ-2018/2026",
+      "subject": "BPA CONTRACT FOR SUPPLY OF CARTRIDGES FOR HP PRINTERS (HP)-HMC/TCS/BPA-09/2024-RE-TENDER",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:40:30.000Z",
+      "awardedAmountQar": 1377607,
+      "tenderBondQar": 50000,
+      "participantCount": 4,
+      "awardedCount": 2,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658272",
+      "takeaway": "The contract was split between two companies among four bidders, showing competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2018/2026\n\n*Tender title:*\nBPA CONTRACT FOR SUPPLY OF CARTRIDGES FOR HP PRINTERS (HP)-HMC/TCS/BPA-09/2024-RE-TENDER\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 1,377,607\n*Tender bond:* QAR 50,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (2)\n1. ALMUFTAH TRADING AND CONTRACTING — QAR 1,272,500\n2. CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L — QAR 105,107\n\n*Technically opened companies:* (4)\n1. MANNAI TRADING COMPANY\n2. ALMUFTAH TRADING AND CONTRACTING\n3. CITY CENTRE ELECTRONIC SERVICES\n4. CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L\n\n*Financially opened companies:* (3)\n1. CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L — QAR 105,107\n2. CITY CENTRE ELECTRONIC SERVICES — QAR 972,678\n3. ALMUFTAH TRADING AND CONTRACTING — QAR 1,272,500\n\n💡 The contract was split between two companies among four bidders, showing competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/64",
+      "participants": [
+        {
+          "company": "ALMUFTAH TRADING AND CONTRACTING",
+          "cr": "3713",
+          "stage": "awarded",
+          "approvedValueQar": 1272500,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L",
+          "cr": "48184",
+          "stage": "awarded",
+          "approvedValueQar": 105107,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ALMUFTAH TRADING AND CONTRACTING",
+          "cr": "3713",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CITY CENTRE ELECTRONIC SERVICES",
+          "cr": "31296",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L",
+          "cr": "48184",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ALMUFTAH TRADING AND CONTRACTING",
+          "cr": "3713",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1272500,
+          "localValueRatio": 13.06,
+          "excluded": false
+        },
+        {
+          "company": "CITY CENTRE ELECTRONIC SERVICES",
+          "cr": "31296",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 972678,
+          "localValueRatio": 18.46,
+          "excluded": false
+        },
+        {
+          "company": "CHIP QATAR SOLUTION TRADING AND CONTRACTING W.L.L",
+          "cr": "48184",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 105107,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "tenderNumber": "4465/2026",
+      "customId": "MNQ-4465/2026",
+      "subject": "Managed Helpdesk (HD) & Audio-Visual (AV) Technical Services (2026-20231) on Call Off",
+      "ministry": "Qatar Museums Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:38:56.000Z",
+      "awardedAmountQar": 24781620,
+      "tenderBondQar": 55000,
+      "participantCount": 9,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660719",
+      "takeaway": "The winner was 14% cheaper than the best losing bid, indicating strong price competition among nine bidders.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4465/2026\n\n*Tender title:*\nManaged Helpdesk (HD) & Audio-Visual (AV) Technical Services (2026-20231) on Call Off\n\n*Ministry:* Qatar Museums Authority\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 24,781,620\n*Tender bond:* QAR 55,000\n*Total bidders:* 9 companies\n\n*Awarded companies:* (1)\n1. Diyar middle East — QAR 24,781,620\n\n*Technically opened companies:* (9)\n1. MANNAI TECHNOLOGIES\n2. ARITA SOLUTIONS\n3. Diyar middle East\n4. EBLA COMPUTER CONSULTANCY\n5. CORVIT NETWORKS TRADING AND SERVICES\n6. ALI BIN ALI TECHNOLOGY SOLUTIONS\n7. QATAR ELECTRONIC SYSTEMS CO TE CHNO Q\n8. Qatar Computer Services Company\n9. Squareone Technologies\n\n*Financially opened companies:* (2)\n1. Diyar middle East — QAR 24,781,620\n2. Squareone Technologies — QAR 28,698,000\n\n💡 The winner was 14% cheaper than the best losing bid, indicating strong price competition among nine bidders.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/63",
+      "participants": [
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "awarded",
+          "approvedValueQar": 24781620,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ARITA SOLUTIONS",
+          "cr": "153006",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "CORVIT NETWORKS TRADING AND SERVICES",
+          "cr": "206438",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "ALI BIN ALI TECHNOLOGY SOLUTIONS",
+          "cr": "101091",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR ELECTRONIC SYSTEMS CO TE CHNO Q",
+          "cr": "18116",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Qatar Computer Services Company",
+          "cr": "6816",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Squareone Technologies",
+          "cr": "50261",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 24781620,
+          "localValueRatio": 40.67,
+          "excluded": false
+        },
+        {
+          "company": "Squareone Technologies",
+          "cr": "50261",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 28698000,
+          "localValueRatio": 29.92,
+          "excluded": true
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "tenderNumber": "3948/2026",
+      "customId": "MNQ-3948/2026",
+      "subject": "QM Firewall Support and License Renewal",
+      "ministry": "Qatar Museums Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-09",
+      "sentAt": "2026-11-10T11:37:23.000Z",
+      "awardedAmountQar": 1476362,
+      "tenderBondQar": 15000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660202",
+      "takeaway": "With three bidders, VISTAS GLOBAL won by being 20% cheaper than the next highest bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 3948/2026\n\n*Tender title:*\nQM Firewall Support and License Renewal\n\n*Ministry:* Qatar Museums Authority\n*Awarded date:* 09/11/2026\n*Awarded amount:* QAR 1,476,362\n*Tender bond:* QAR 15,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. VISTAS GLOBAL — QAR 1,476,362\n\n*Technically opened companies:* (3)\n1. MANNAI TECHNOLOGIES\n2. VISTAS GLOBAL\n3. QATAR DATAMATION SYSTEM\n\n*Financially opened companies:* (2)\n1. VISTAS GLOBAL — QAR 1,476,362\n2. MANNAI TECHNOLOGIES — QAR 1,841,036\n\n💡 With three bidders, VISTAS GLOBAL won by being 20% cheaper than the next highest bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/62",
+      "participants": [
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "awarded",
+          "approvedValueQar": 1476362,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1841036,
+          "localValueRatio": 87.97,
+          "excluded": true
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1476362,
+          "localValueRatio": 67.19,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "tenderNumber": "5662/2026",
+      "customId": "MNQ-5662/2026",
+      "subject": "Adob acrobat license-20261510",
+      "ministry": "Primary Health Care Corporation",
+      "tenderType": "Direct Agreement Less Than 200,000",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-08",
+      "sentAt": "2026-11-10T11:36:01.000Z",
+      "awardedAmountQar": 35949.7,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661917",
+      "takeaway": "Only one bidder competed, so no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5662/2026\n\n*Tender title:*\nAdob acrobat license-20261510\n\n*Ministry:* Primary Health Care Corporation\n*Awarded date:* 08/11/2026\n*Awarded amount:* QAR 35,949.70\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Information & Communication Technology W L.L — QAR 35,949.70\n\n*Technically opened companies:* (1)\n1. Information & Communication Technology W L.L\n\n*Financially opened companies:* (1)\n1. Information & Communication Technology W L.L — QAR 35,949.70\n\n💡 Only one bidder competed, so no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/61",
+      "participants": [
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "awarded",
+          "approvedValueQar": 35949.7,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 35949.7,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "tenderNumber": "2259/2026",
+      "customId": "MNQ-2259/2026",
+      "subject": "Three (3) Years Comprehensive Maintenance Service Contract for the CT Scanner (Computed Tomography Scanner)",
+      "ministry": "Aspire Zone",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-03",
+      "sentAt": "2026-11-10T11:34:42.000Z",
+      "awardedAmountQar": 1651315,
+      "tenderBondQar": 30000,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658513",
+      "takeaway": "Only one bidder competed, so the field for CT scanner maintenance is very thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 2259/2026\n\n*Tender title:*\nThree (3) Years Comprehensive Maintenance Service Contract for the CT Scanner (Computed Tomography Scanner)\n\n*Ministry:* Aspire Zone\n*Awarded date:* 03/11/2026\n*Awarded amount:* QAR 1,651,315\n*Tender bond:* QAR 30,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Ali Bin Ali Medical — QAR 1,651,315\n\n*Technically opened companies:* (1)\n1. Ali Bin Ali Medical\n\n*Financially opened companies:* (1)\n1. Ali Bin Ali Medical — QAR 1,651,315\n\n💡 Only one bidder competed, so the field for CT scanner maintenance is very thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/60",
+      "participants": [
+        {
+          "company": "Ali Bin Ali Medical",
+          "cr": "103975",
+          "stage": "awarded",
+          "approvedValueQar": 1651315,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ali Bin Ali Medical",
+          "cr": "103975",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ali Bin Ali Medical",
+          "cr": "103975",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1651315,
+          "localValueRatio": 18.36,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "tenderNumber": "4129/2026",
+      "customId": "MNQ-4129/2026",
+      "subject": "VMware license renewal and technical support on Azure cloud for three years and one month including installation, technical support, maintenance and warranty",
+      "ministry": "Ministry of Justice",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-03",
+      "sentAt": "2026-11-10T11:33:26.000Z",
+      "awardedAmountQar": 3353964,
+      "tenderBondQar": 230000,
+      "participantCount": 4,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660383",
+      "takeaway": "Strong competition with a 5% price gap.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4129/2026\n\n*Tender title:*\nVMware license renewal and technical support on Azure cloud for three years and one month including installation, technical support, maintenance and warranty\n\n*Ministry:* Ministry of Justice\n*Awarded date:* 03/11/2026\n*Awarded amount:* QAR 3,353,964\n*Tender bond:* QAR 230,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (1)\n1. Diyar middle East — QAR 3,353,964\n\n*Technically opened companies:* (4)\n1. QATAR DATAMATION SYSTEM\n2. Information & Communication Technology W L.L\n3. MANNAI TECHNOLOGIES\n4. Diyar middle East\n\n*Financially opened companies:* (2)\n1. Diyar middle East — QAR 3,353,964\n2. MANNAI TECHNOLOGIES — QAR 3,542,940\n\n💡 Strong competition with a 5% price gap.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/59",
+      "participants": [
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "awarded",
+          "approvedValueQar": 3353964,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "QATAR DATAMATION SYSTEM",
+          "cr": "15928",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Information & Communication Technology W L.L",
+          "cr": "31192",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3542940,
+          "localValueRatio": 87.97,
+          "excluded": true
+        },
+        {
+          "company": "Diyar middle East",
+          "cr": "40022",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3353964,
+          "localValueRatio": 40.67,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "tenderNumber": "1944/2026",
+      "customId": "MNQ-1944/2026",
+      "subject": "Renewal and additional licensing for Cisco ISE (NAC) for 3 Yeras",
+      "ministry": "Qatar Museums Authority",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-02",
+      "sentAt": "2026-11-10T11:31:42.000Z",
+      "awardedAmountQar": 3674888,
+      "tenderBondQar": 20000,
+      "participantCount": 4,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/658198",
+      "takeaway": "The competition was thin because the winner's bid was 404% more expensive than the best losing bid.",
+      "messageSent": "🏆 *TENDER AWARDED* — 1944/2026\n\n*Tender title:*\nRenewal and additional licensing for Cisco ISE (NAC) for 3 Yeras\n\n*Ministry:* Qatar Museums Authority\n*Awarded date:* 02/11/2026\n*Awarded amount:* QAR 3,674,888\n*Tender bond:* QAR 20,000\n*Total bidders:* 4 companies\n\n*Awarded companies:* (1)\n1. MANNAI TRADING COMPANY — QAR 3,674,888\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (4)\n1. VISTAS GLOBAL — QAR 729,806\n2. SITE TECHNOLOGY CO . QATAR — QAR 890,000\n3. ALPHA DATA — QAR 1,173,152.18\n4. MANNAI TRADING COMPANY — QAR 3,674,888\n\n💡 The competition was thin because the winner's bid was 404% more expensive than the best losing bid.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/58",
+      "participants": [
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "awarded",
+          "approvedValueQar": 3674888,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "MANNAI TRADING COMPANY",
+          "cr": "8191",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3674888,
+          "localValueRatio": 19.91,
+          "excluded": false
+        },
+        {
+          "company": "SITE TECHNOLOGY CO . QATAR",
+          "cr": "35771",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 890000,
+          "localValueRatio": 26.21,
+          "excluded": true
+        },
+        {
+          "company": "VISTAS GLOBAL",
+          "cr": "61876",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 729806,
+          "localValueRatio": 67.19,
+          "excluded": true
+        },
+        {
+          "company": "ALPHA DATA",
+          "cr": "60185",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 1173152.18,
+          "localValueRatio": null,
+          "excluded": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "tenderNumber": "5471/2026",
+      "customId": "MNQ-5471/2026",
+      "subject": "SUPPLY OF DRUGS(VARENICLINE 1MG MAINTENANCE PACK (28x2TAB) OR (14x4TAB), VARENICLINE STARTER PACK (11 TABLETS OF 0.5MG AND 42 TABLETS OF 1MG) OR (11 TABLETS OF 0.5MG AND 14 TABLETS OF 1MG))-(DP/4219161/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-02",
+      "sentAt": "2026-11-02T11:36:01.000Z",
+      "awardedAmountQar": 229658,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661725",
+      "takeaway": "Only one bidder competed, so the field for this drug supply is thin.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5471/2026\n\n*Tender title:*\nSUPPLY OF DRUGS(VARENICLINE 1MG MAINTENANCE PACK (28x2TAB) OR (14x4TAB), VARENICLINE STARTER PACK (11 TABLETS OF 0.5MG AND 42 TABLETS OF 1MG) OR (11 TABLETS OF 0.5MG AND 14 TABLETS OF 1MG))-(DP/4219161/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 02/11/2026\n*Awarded amount:* QAR 229,658\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. Ebn Sina Medical — QAR 229,658\n\n*Technically opened companies:* (1)\n1. Ebn Sina Medical\n\n*Financially opened companies:* (1)\n1. Ebn Sina Medical — QAR 229,658\n\n💡 Only one bidder competed, so the field for this drug supply is thin.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/57",
+      "participants": [
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "awarded",
+          "approvedValueQar": 229658,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Ebn Sina Medical",
+          "cr": "96548",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 229658,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "tenderNumber": "4841/2026",
+      "customId": "MNQ-4841/2026",
+      "subject": "ManageEngine AD Solutions Subscription & AMC Renewal for a period of Three (3) Years PHCC/TAC/84/2026",
+      "ministry": "Primary Health Care Corporation",
+      "tenderType": "Limited Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-10-28",
+      "sentAt": "2026-11-02T11:34:23.000Z",
+      "awardedAmountQar": 436775,
+      "tenderBondQar": 13500,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/661095",
+      "takeaway": "Only one bidder competed, meaning this managed service market has minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4841/2026\n\n*Tender title:*\nManageEngine AD Solutions Subscription & AMC Renewal for a period of Three (3) Years PHCC/TAC/84/2026\n\n*Ministry:* Primary Health Care Corporation\n*Awarded date:* 28/10/2026\n*Awarded amount:* QAR 436,775\n*Tender bond:* QAR 13,500\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. BURHAN TECHNOLOGY COMPUTER — QAR 436,775\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (1)\n1. BURHAN TECHNOLOGY COMPUTER — QAR 436,775\n\n💡 Only one bidder competed, meaning this managed service market has minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/56",
+      "participants": [
+        {
+          "company": "BURHAN TECHNOLOGY COMPUTER",
+          "cr": "196037",
+          "stage": "awarded",
+          "approvedValueQar": 436775,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "BURHAN TECHNOLOGY COMPUTER",
+          "cr": "196037",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 436775,
+          "localValueRatio": 7.02,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 55,
       "tenderNumber": "3101/2026",
