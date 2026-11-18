@@ -1,7 +1,137 @@
 {
-  "generatedAt": "2026-11-17T15:34:14.140Z",
+  "generatedAt": "2026-11-18T11:32:30.872Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 72,
+      "tenderNumber": "4579/2026",
+      "customId": "MNQ-4579/2026",
+      "subject": "INFRASTRUCTURE AND CYBERSECURITY TANSFORMATION PROJECT",
+      "ministry": "Qatar Leadership Centre",
+      "tenderType": "Limited Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-18",
+      "sentAt": "2026-11-18T11:32:30.000Z",
+      "awardedAmountQar": 9450000,
+      "tenderBondQar": 100000,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660833",
+      "takeaway": "Only one bidder won the Qatar Leadership Centre contract.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4579/2026\n\n*Tender title:*\nINFRASTRUCTURE AND CYBERSECURITY TANSFORMATION PROJECT\n\n*Ministry:* Qatar Leadership Centre\n*Awarded date:* 18/11/2026\n*Awarded amount:* QAR 9,450,000\n*Tender bond:* QAR 100,000\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. I 4 IT SOLUTION W.L.L — QAR 9,450,000\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (1)\n1. I 4 IT SOLUTION W.L.L — QAR 9,450,000\n\n💡 Only one bidder won the Qatar Leadership Centre contract.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/72",
+      "participants": [
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "awarded",
+          "approvedValueQar": 9450000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "I 4 IT SOLUTION W.L.L",
+          "cr": "44540",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 9450000,
+          "localValueRatio": 15.51,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "tenderNumber": "4054/2026",
+      "customId": "MNQ-4054/2026",
+      "subject": "Renting printers for Lekhwiya Force for three years",
+      "ministry": "Internal Security Force (Lekhwiya)",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-18",
+      "sentAt": "2026-11-18T11:31:18.000Z",
+      "awardedAmountQar": 2603700,
+      "tenderBondQar": 150000,
+      "participantCount": 7,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660308",
+      "takeaway": "The winner was 22% cheaper than the best losing bid, showing strong price competition among 7 bidders.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4054/2026\n\n*Tender title:*\nRenting printers for Lekhwiya Force for three years\n\n*Ministry:* Internal Security Force (Lekhwiya)\n*Awarded date:* 18/11/2026\n*Awarded amount:* QAR 2,603,700\n*Tender bond:* QAR 150,000\n*Total bidders:* 7 companies\n\n*Awarded companies:* (1)\n1. MANNAI TECHNOLOGIES — QAR 2,603,700\n\n*Technically opened companies:*\nnot published on the source report\n\n*Financially opened companies:* (7)\n1. MANNAI TECHNOLOGIES — QAR 2,603,700\n2. MODERN HOME — QAR 3,336,980\n3. AL Ali Business Solutions — QAR 4,726,368\n4. Office Al-khaleej — QAR 5,124,007\n5. ALMUFTAH TRADING AND CONTRACTING — QAR 5,779,260\n6. Al Abbas Commercial Co. — QAR 5,812,236\n7. Aamal Information Technology — QAR 5,844,600\n\n💡 The winner was 22% cheaper than the best losing bid, showing strong price competition among 7 bidders.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/71",
+      "participants": [
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "awarded",
+          "approvedValueQar": 2603700,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "Al Abbas Commercial Co.",
+          "cr": "31300",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5812236,
+          "localValueRatio": 24.16,
+          "excluded": true
+        },
+        {
+          "company": "ALMUFTAH TRADING AND CONTRACTING",
+          "cr": "3713",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5779260,
+          "localValueRatio": 13.06,
+          "excluded": true
+        },
+        {
+          "company": "MANNAI TECHNOLOGIES",
+          "cr": "36800",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 2603700,
+          "localValueRatio": 87.97,
+          "excluded": false
+        },
+        {
+          "company": "MODERN HOME",
+          "cr": "51",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 3336980,
+          "localValueRatio": 18.56,
+          "excluded": true
+        },
+        {
+          "company": "Office Al-khaleej",
+          "cr": "32898",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5124007,
+          "localValueRatio": null,
+          "excluded": true
+        },
+        {
+          "company": "Aamal Information Technology",
+          "cr": "188369",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 5844600,
+          "localValueRatio": 76.17,
+          "excluded": true
+        },
+        {
+          "company": "AL Ali Business Solutions",
+          "cr": "40108/1",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 4726368,
+          "localValueRatio": 26.54,
+          "excluded": true
+        }
+      ]
+    },
     {
       "id": 70,
       "tenderNumber": "4572/2026",
