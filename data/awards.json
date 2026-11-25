@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-11-18T11:32:30.872Z",
+  "generatedAt": "2026-11-25T11:31:20.560Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 73,
+      "tenderNumber": "4535/2026",
+      "customId": "MNQ-4535/2026",
+      "subject": "Appian License Subscription Renewal and Support - LTC-2468/2026 - Materials Department",
+      "ministry": "Qatar General Electicity & Water Corporation",
+      "tenderType": "Public Tender",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-25",
+      "sentAt": "2026-11-25T11:31:20.000Z",
+      "awardedAmountQar": 6900000,
+      "tenderBondQar": 200000,
+      "participantCount": 3,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/660789",
+      "takeaway": "With only three bidders, the winner undercut the best rival by 42%, showing price drove the decision.",
+      "messageSent": "🏆 *TENDER AWARDED* — 4535/2026\n\n*Tender title:*\nAppian License Subscription Renewal and Support - LTC-2468/2026 - Materials Department\n\n*Ministry:* Qatar General Electicity & Water Corporation\n*Awarded date:* 25/11/2026\n*Awarded amount:* QAR 6,900,000\n*Tender bond:* QAR 200,000\n*Total bidders:* 3 companies\n\n*Awarded companies:* (1)\n1. EBLA COMPUTER CONSULTANCY — QAR 6,900,000\n\n*Technically opened companies:* (3)\n1. LTIMINDTREE LIMITED\n2. INSPIRE DIGITAL TRANSFORMATION AND INFORMATION TECHNOLOGY SOLUTIONS\n3. EBLA COMPUTER CONSULTANCY\n\n*Financially opened companies:* (3)\n1. EBLA COMPUTER CONSULTANCY — QAR 6,900,000\n2. INSPIRE DIGITAL TRANSFORMATION AND INFORMATION TECHNOLOGY SOLUTIONS — QAR 11,949,392\n3. LTIMINDTREE LIMITED — QAR 16,840,978\n\n💡 With only three bidders, the winner undercut the best rival by 42%, showing price drove the decision.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/73",
+      "participants": [
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "awarded",
+          "approvedValueQar": 6900000,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "LTIMINDTREE LIMITED",
+          "cr": "FLC/000194",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "INSPIRE DIGITAL TRANSFORMATION AND INFORMATION TECHNOLOGY SOLUTIONS",
+          "cr": "190370",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "LTIMINDTREE LIMITED",
+          "cr": "FLC/000194",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 16840978,
+          "localValueRatio": null,
+          "excluded": true
+        },
+        {
+          "company": "INSPIRE DIGITAL TRANSFORMATION AND INFORMATION TECHNOLOGY SOLUTIONS",
+          "cr": "190370",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 11949392,
+          "localValueRatio": null,
+          "excluded": true
+        },
+        {
+          "company": "EBLA COMPUTER CONSULTANCY",
+          "cr": "18036",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 6900000,
+          "localValueRatio": 48.81,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 72,
       "tenderNumber": "4579/2026",
