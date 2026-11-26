@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-11-25T11:31:20.560Z",
+  "generatedAt": "2026-11-26T11:32:45.393Z",
   "source": "Monaqasat (Qatar MOF)",
   "awards": [
+    {
+      "id": 75,
+      "tenderNumber": "5995/2026",
+      "customId": "MNQ-5995/2026",
+      "subject": "HISTO TRAC LICENSE RENEWAL FOR A THREE-YEAR CONTRACT 2027 TO 2030-DLMP(DP 4127343/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-26",
+      "sentAt": "2026-11-26T11:32:45.000Z",
+      "awardedAmountQar": 726850,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/662250",
+      "takeaway": "This license renewal had only one bidder, indicating minimal competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5995/2026\n\n*Tender title:*\nHISTO TRAC LICENSE RENEWAL FOR A THREE-YEAR CONTRACT 2027 TO 2030-DLMP(DP 4127343/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 26/11/2026\n*Awarded amount:* QAR 726,850\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. SEDEER MEDICAL SERVICES AND TRADING — QAR 726,850\n\n*Technically opened companies:* (1)\n1. SEDEER MEDICAL SERVICES AND TRADING\n\n*Financially opened companies:* (1)\n1. SEDEER MEDICAL SERVICES AND TRADING — QAR 726,850\n\n💡 This license renewal had only one bidder, indicating minimal competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/75",
+      "participants": [
+        {
+          "company": "SEDEER MEDICAL SERVICES AND TRADING",
+          "cr": "23378",
+          "stage": "awarded",
+          "approvedValueQar": 726850,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SEDEER MEDICAL SERVICES AND TRADING",
+          "cr": "23378",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "SEDEER MEDICAL SERVICES AND TRADING",
+          "cr": "23378",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 726850,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "tenderNumber": "5997/2026",
+      "customId": "MNQ-5997/2026",
+      "subject": "SUPPLY OF DRUGS (BELZUTIFAN 40MG TABLET)-DSD(DP 4255703/2026)",
+      "ministry": "Hamad Medical Corporation",
+      "tenderType": "Direct Agreement",
+      "sector": "Suppliers / Service Providers",
+      "awardedDate": "2026-11-26",
+      "sentAt": "2026-11-26T11:31:23.000Z",
+      "awardedAmountQar": 328500,
+      "tenderBondQar": null,
+      "participantCount": 1,
+      "awardedCount": 1,
+      "reportUrl": "https://monaqasat.mof.gov.qa/TendersOnlineServices/TenderCompaniesDetails/662252",
+      "takeaway": "Only one company bid, so this contract had no competition.",
+      "messageSent": "🏆 *TENDER AWARDED* — 5997/2026\n\n*Tender title:*\nSUPPLY OF DRUGS (BELZUTIFAN 40MG TABLET)-DSD(DP 4255703/2026)\n\n*Ministry:* Hamad Medical Corporation\n*Awarded date:* 26/11/2026\n*Awarded amount:* QAR 328,500\n*Total bidders:* 1 company\n\n*Awarded companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS — QAR 328,500\n\n*Technically opened companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS\n\n*Financially opened companies:* (1)\n1. AHMED KHALIL AL-BAKER AND SONS — QAR 328,500\n\n💡 Only one company bid, so this contract had no competition.\n\nhttps://volgetechnology.github.io/award-ledger/#/a/74",
+      "participants": [
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "awarded",
+          "approvedValueQar": 328500,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "technical",
+          "approvedValueQar": null,
+          "proposalAmountQar": null,
+          "localValueRatio": null,
+          "excluded": false
+        },
+        {
+          "company": "AHMED KHALIL AL-BAKER AND SONS",
+          "cr": "124117",
+          "stage": "financial",
+          "approvedValueQar": null,
+          "proposalAmountQar": 328500,
+          "localValueRatio": null,
+          "excluded": false
+        }
+      ]
+    },
     {
       "id": 73,
       "tenderNumber": "4535/2026",
